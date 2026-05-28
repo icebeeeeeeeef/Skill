@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{title}}</title>
+  <link rel="stylesheet" href="assets/styles/report.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/prismjs@1/plugins/autoloader/prism-autoloader.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0/dist/contrib/auto-render.min.js"></script>
+  <script defer src="assets/scripts/report.js"></script>
+</head>
+<body>
+  <div class="reading-progress" data-reading-progress></div>
+  <div class="page-shell">
+    <aside class="toc-panel" aria-label="Table of contents">
+      <div class="toc-title">目录</div>
+      <nav id="toc"></nav>
+      <div class="toc-actions">
+        <button type="button" data-expand-all>展开全部</button>
+        <button type="button" data-collapse-all>收起细节</button>
+      </div>
+    </aside>
+
+    <main class="report">
+      <header class="report-hero">
+        <p class="eyebrow">{{scenario}}</p>
+        <h1>{{title}}</h1>
+        <p class="subtitle">{{subtitle}}</p>
+        <dl class="meta-grid">
+          <div><dt>生成时间</dt><dd>{{generated_at}}</dd></div>
+          <div><dt>阅读策略</dt><dd>{{reading_strategy}}</dd></div>
+          <div><dt>依赖说明</dt><dd>{{dependency_note}}</dd></div>
+        </dl>
+      </header>
+
+      <article class="content">
+{{body}}
+      </article>
+    </main>
+  </div>
+</body>
+</html>

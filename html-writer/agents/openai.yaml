@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Writer"
+  short_description: "Create rich local HTML technical reports"
+  default_prompt: "Use $html-writer to turn this long technical explanation into a readable local HTML report."
