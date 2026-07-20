@@ -1,0 +1,7 @@
+interface:
+  display_name: "Proofloop"
+  short_description: "Lightweight evidence-driven coding SOP"
+  default_prompt: "Use $proofloop to complete this engineering change with the lightest sufficient evidence."
+
+policy:
+  allow_implicit_invocation: true
