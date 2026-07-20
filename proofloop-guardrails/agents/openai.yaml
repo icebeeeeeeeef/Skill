@@ -1,0 +1,7 @@
+interface:
+  display_name: "Proofloop Guardrails"
+  short_description: "Apply portable AI failure prevention rules"
+  default_prompt: "Use $proofloop-guardrails to check this task against applicable portable guardrails."
+
+policy:
+  allow_implicit_invocation: true

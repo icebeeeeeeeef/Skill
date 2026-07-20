@@ -1,0 +1,7 @@
+interface:
+  display_name: "Proofloop Test Matrix"
+  short_description: "Design counterexample-driven test evidence"
+  default_prompt: "Use $proofloop-test-matrix to design the smallest counterexample matrix for this behavior."
+
+policy:
+  allow_implicit_invocation: true
