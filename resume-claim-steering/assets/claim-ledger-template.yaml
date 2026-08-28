@@ -1,0 +1,30 @@
+target_role: ""
+jd_excerpt: ""
+positioning:
+  safe: ""
+  ambitious: ""
+  ambitious_missing_evidence: []
+claims:
+  - id: c1
+    type: ownership # ownership | metric | technical | architecture | result
+    source_fact: ""
+    candidate_wording: ""
+    intensity: safe # safe | ambitious
+    responsibility_level: 负责模块 # 参与 | 负责模块 | 主导方案或交付 | 项目负责人
+    boundary: ""
+    sources: []
+    verification_status: 待确认 # 已确认 | 待确认 | 不采用
+    hook:
+      conventional: ""
+      chosen: ""
+      constraint: ""
+      fatal_flaw_of_conventional: ""
+    interview_details:
+      decision: ""
+      alternative: ""
+      failure: ""
+      metric_method: ""
+      cost: ""
+      redo: ""
+    risk_notes: []
+    allowed_uses: [resume, tree]
