@@ -1,0 +1,75 @@
+# Historical source-machine observations, not validation of this installation.
+last_verified: "2026-07-29"
+volatile: true
+gateway:
+  name: cn-article-search
+  tools:
+    - search_articles
+    - fetch_article
+    - source_health
+  local_source_root: "~/.codex/cn-article-search"
+sources:
+  zhihu:
+    primary_route: "developer.zhihu.com GET /api/v1/content/zhihu_search"
+    auth_level: "api_key"
+    verified_on_snapshot_date: true
+    search: "success"
+    full_text: "metadata_only"
+    notes:
+      - "Official docs describe Bearer auth plus X-Request-Timestamp."
+      - "The source installation reported successful authenticated search on the snapshot date; credentials are not included."
+      - "The verified official search response returned summary text, not a separate article-body fetch endpoint."
+  juejin:
+    primary_route: "anonymous search API plus browser fallback for article body"
+    auth_level: "none"
+    verified_on_snapshot_date: true
+    search: "success"
+    full_text: "success_via_browser"
+    notes:
+      - "Anonymous search API returned article metadata."
+      - "Direct article HTML returned WAF challenge to urllib."
+      - "System Chrome plus bundled Playwright fetched article body."
+  wechat:
+    primary_route: "Sogou Weixin anonymous search, JS redirect parsing, mp.weixin.qq.com fetch"
+    auth_level: "none"
+    verified_on_snapshot_date: true
+    search: "success"
+    full_text: "success_for_same_session_smoke_case"
+    notes:
+      - "Sogou search returned 10 result blocks without captcha for the smoke query."
+      - "Sogou link page constructs canonical mp.weixin.qq.com URL in JavaScript."
+      - "Same-session search with require_full_text fetched one article body successfully."
+      - "Direct fetch of a previously resolved mp.weixin.qq.com URL hit appmsg captcha once; treat direct fetch as unstable."
+  tencent_cloud:
+    primary_route: "public web search with site-restricted queries for cloud.tencent.com/developer/article"
+    auth_level: "none"
+    verified_on_snapshot_date: false
+    search: "use_web_search"
+    full_text: "use_web_fetch"
+    gateway_adapter: false
+    notes:
+      - "Do not pass as a cn-article-search source until a gateway adapter is implemented."
+      - "Rank by author identity; official/team articles outrank ordinary community posts."
+  aliyun:
+    primary_route: "public web search with site-restricted queries for developer.aliyun.com/article and aliyun.com official docs/blog pages"
+    auth_level: "none"
+    verified_on_snapshot_date: false
+    search: "use_web_search"
+    full_text: "use_web_fetch"
+    gateway_adapter: false
+    notes:
+      - "Do not pass as a cn-article-search source until a gateway adapter is implemented."
+      - "Rank by author identity; official/team articles outrank ordinary community posts."
+  volcengine:
+    primary_route: "public web search with site-restricted queries for developer.volcengine.com/articles and volcengine.com docs/blog pages"
+    auth_level: "none"
+    verified_on_snapshot_date: false
+    search: "use_web_search"
+    full_text: "use_web_fetch"
+    gateway_adapter: false
+    notes:
+      - "Do not pass as a cn-article-search source until a gateway adapter is implemented."
+      - "Rank by author identity; official/team articles outrank ordinary community posts."
+connectors:
+  github: "requires a separately installed Codex plugin; use existing connector or web/GitHub source tools"
+  hugging_face: "requires a separately installed Codex plugin; use existing connector for papers/models/datasets"

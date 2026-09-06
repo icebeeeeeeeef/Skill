@@ -1,0 +1,4 @@
+interface:
+  display_name: "就业项目第一性原理"
+  short_description: "以岗位职责、真实证据和面试追问标准选择、审查并包装就业项目"
+  default_prompt: "Use $evaluating-career-projects to evaluate this project against my target roles and produce an evidence-first plan."
