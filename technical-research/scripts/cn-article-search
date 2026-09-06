@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT="${CN_ARTICLE_SEARCH_ROOT:-${HOME}/.codex/cn-article-search}"
+export PYTHONPATH="$ROOT/src${PYTHONPATH:+:$PYTHONPATH}"
+exec python3 -m cn_article_search "$@"

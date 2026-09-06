@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Research"
+  short_description: "Evidence-first technical research routing"
+  default_prompt: "Use $technical-research to compare LLM serving KV cache designs with source-backed evidence."

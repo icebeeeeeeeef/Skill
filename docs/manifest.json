@@ -1,0 +1,3637 @@
+{
+  "snapshot_date": "2026-09-07",
+  "personal_entries": 94,
+  "unique_personal_skills": 92,
+  "included_skills": 90,
+  "excluded_personal_skills": [
+    "bits-code-guard",
+    "bits-unit-test-gen"
+  ],
+  "export_changes": [
+    "technical-research: replace machine paths, document optional runtime, label historical source observations",
+    "lark-drive: repair relative reactions reference",
+    "Zhihu skills: replace missing original-repository homepage paths with the public documentation URL already cited in each skill"
+  ],
+  "skills": [
+    {
+      "directory": "51mee-position-parse",
+      "source": "~/.codex/skills/51mee-position-parse",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "5f48559e1aa51bb1e0cfa874e89409bb2a0a2c30273965eb83d87add5d2fcd17",
+          "executable": false
+        },
+        {
+          "path": "_meta.json",
+          "sha256": "1223808f0ee0a31dcb72d726ba93e84dc32ac9a6f5348dad7b4d2aa4438770f5",
+          "executable": false
+        }
+      ],
+      "category": "求职与项目表达",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "MAW",
+      "source": "~/.codex/skills/MAW",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "a32e7ddb2103ee41dd9ceba2d69e5051a5f5082c4041577305cc8b43de6193bb",
+          "executable": false
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "a1499d95abd8447558c535fe5554adcc3c9b988a0a39264a6283d430effe1e94",
+          "executable": false
+        },
+        {
+          "path": "references/architecture-patterns.md",
+          "sha256": "2df8eda872c2a86f642b22b2e5edf4b09d331f81f1e47e4a326f0cdee931b412",
+          "executable": false
+        },
+        {
+          "path": "references/execution-control.md",
+          "sha256": "fe2c8492d42a581dd095273bb40d39459e679a6ecdad266d0cbf613cf27b6967",
+          "executable": false
+        },
+        {
+          "path": "references/planning-and-selection.md",
+          "sha256": "dcb245b204be8a66cd89020aedb2a9964911fbe019409d30303ab746cc6856e6",
+          "executable": false
+        },
+        {
+          "path": "references/provenance.md",
+          "sha256": "fd82cc673e0d9a36f2a241e5be69ba80b18fb42fd2953bfa335acebe0ad30898",
+          "executable": false
+        },
+        {
+          "path": "references/verification-and-synthesis.md",
+          "sha256": "ac67e4c204df93cffe7181871e5618850e706c814d7fbf30d498245028937e70",
+          "executable": false
+        },
+        {
+          "path": "references/worked-examples.md",
+          "sha256": "64d568fb782f044abe4c27a9e54190fd118eec2ac8ed130ca308d1b02587799b",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "bullet",
+      "source": "~/.codex/skills/bullet",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "5175d32d6aa37408851dfc30dfcb1037ccc809f3643af04efc4cf7d9a809dbff",
+          "executable": false
+        },
+        {
+          "path": "references/intake-and-review.md",
+          "sha256": "f798b3816c236c19f386822f508c64b1fb99d1ad6109e7a13a89e80701b4f03b",
+          "executable": false
+        }
+      ],
+      "category": "求职与项目表达",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "caveman",
+      "source": "~/.agents/skills/caveman",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "b4bb6fe3bf3da222993ca0aee5e7c6f5368b182dd30ce1172e8f8e3280eb7052",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "codebase-design",
+      "source": "~/.codex/skills/codebase-design",
+      "files": [
+        {
+          "path": "DEEPENING.md",
+          "sha256": "125e6b77413ad2bc7cf7a772bc74336d580a50f9e797db2178ed133d62333d06",
+          "executable": false
+        },
+        {
+          "path": "DESIGN-IT-TWICE.md",
+          "sha256": "21c3264953bd30ee87b181a3ccaf0e70649f461e5ffd7dc654acee4ba1788b31",
+          "executable": false
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "a8d50abac5a4018f60e1d911d4b6f4e36454ca14d6c390c0695a578c7de65dad",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "codebase-onboarding",
+      "source": "~/.codex/skills/codebase-onboarding",
+      "files": [
+        {
+          "path": "REFERENCE.md",
+          "sha256": "b9b8b21b97f7e2ccd457a7e4ac97b38399ced4c545c58630c9b07a9016714b9c",
+          "executable": false
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "cc1d8dfd77ced3d5ea7b76089f5492266c2ffb93170ed53a7d1432fffd2005eb",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "diagnose",
+      "source": "~/.agents/skills/diagnose",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "28886402bbfa0470248086eab9106a103b964b76ae9496e63ff0c8a6761b6d13",
+          "executable": false
+        },
+        {
+          "path": "scripts/hitl-loop.template.sh",
+          "sha256": "b2932630950e5210075bcd6f850e5accf30c101c5367b29eac3a29b4dd8084c8",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "dispatching-parallel-agents",
+      "source": "~/.agents/skills/dispatching-parallel-agents",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "76806091c7f923ba2596546b19cccd98a08e57a68745df77c3a7b998fe838e2b",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "domain-modeling",
+      "source": "~/.codex/skills/domain-modeling",
+      "files": [
+        {
+          "path": "ADR-FORMAT.md",
+          "sha256": "f1f36cd3f8d3b6474ddd5855da4e233bfc4ae1a1c5024909ccf11871819a41b2",
+          "executable": false
+        },
+        {
+          "path": "CONTEXT-FORMAT.md",
+          "sha256": "b8cc318f2a4285b530e908b6bc43901c3c5cd11100362636bbc4216639bef597",
+          "executable": false
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "152e2c97239affb12a60c5f4a7e74ab546a49ae169688c81f4e2ccc42dafa579",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "evaluating-career-projects",
+      "source": "~/.codex/skills/evaluating-career-projects",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "0c5096e659b2527830d3fd6b85ee1d6d25bb01113093e0e9fa5318b21b032de8",
+          "executable": false
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "59efc7a433307612c1a29f97962263cd32796585a044c32ea5cdde0992c49f27",
+          "executable": false
+        },
+        {
+          "path": "references/evaluation-rubric.md",
+          "sha256": "be9747a18f37011f63e2bfbbdf2aa3273f843cc17424bed3262c3d09e0f7e004",
+          "executable": false
+        },
+        {
+          "path": "references/evidence-templates.md",
+          "sha256": "bb0ea28e784066170d0ee5b360df602a026db6b6b6f139be8edc1ffd7e390058",
+          "executable": false
+        },
+        {
+          "path": "references/interview-pressure-test.md",
+          "sha256": "54b6d6b4121648b9406e39f1baaab404b8f0cba8177386d012f2a39acffbdef7",
+          "executable": false
+        }
+      ],
+      "category": "求职与项目表达",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "executing-plans",
+      "source": "~/.agents/skills/executing-plans",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "e2102f11631433939f162d383d769f8257d859d6639e0e14969cda3ef0a95eca",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "explain-concepts",
+      "source": "~/.agents/skills/explain-concepts",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "1798c4c7435bc3e55a75c93cbeeec322e0beddaee7f47878af53f81d6527646a",
+          "executable": false
+        },
+        {
+          "path": "SOURCES.md",
+          "sha256": "b4d5402d9582b015deaa098900f5ef1db7960b6ae2b9b8901e1179f9423ca228",
+          "executable": false
+        },
+        {
+          "path": "references/methodology.md",
+          "sha256": "9e5984c9853823899005e704dad2decafe72a6c797cc62fb366fc2d0c428c373",
+          "executable": false
+        }
+      ],
+      "category": "学习、解释与可视化",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "find-skills",
+      "source": "~/.agents/skills/find-skills",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "1e85f6f9686e145aca4a124e3b704b9bbea9aa87e08515c1e352eee70f6e6e7a",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "finishing-a-development-branch",
+      "source": "~/.agents/skills/finishing-a-development-branch",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "5c8d4b59aedb14c94e2f5d787a3265e858e8f53d4ceffe7ff1c15878a52b0e91",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "global-search",
+      "source": "~/.codex/skills/global-search",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "cee3585c95c6abd60bef95ed0ea57e59223e58a27762a77ff461622d2ed428a0",
+          "executable": false
+        },
+        {
+          "path": "scripts/global-search.py",
+          "sha256": "2b57c8df76fc1f2168bb01d38969652a9714f1650789538fe7ada5a1330aeb30",
+          "executable": true
+        }
+      ],
+      "category": "检索与研究",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "grill-me",
+      "source": "~/.agents/skills/grill-me",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "6189dfceb7304a6e5558f75d87e68fa3bc7fcf7ba120e44f21f8a61fe01eba54",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "grill-with-docs",
+      "source": "~/.agents/skills/grill-with-docs",
+      "files": [
+        {
+          "path": "ADR-FORMAT.md",
+          "sha256": "f1f36cd3f8d3b6474ddd5855da4e233bfc4ae1a1c5024909ccf11871819a41b2",
+          "executable": false
+        },
+        {
+          "path": "CONTEXT-FORMAT.md",
+          "sha256": "886ce0e96fd0f76f4c72c337c049cf4655227c599862ce920a62297e0929beae",
+          "executable": false
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "3e35025119ba03efe7983dfdec3c8b96918142e3978512f3c2bf66d428310c7e",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "grilling",
+      "source": "~/.agents/skills/grilling",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "f0418582594f31dd90f42c7650419f853a415aca517ec99e8635bd550d8f197d",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "grok-build-cli",
+      "source": "~/.agents/skills/grok-build-cli",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "16c700a4cda974688e26266b4d21c1ac7f2b94c0168431be565149cc0dbddc05",
+          "executable": false
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "dbcfdb414540b71edad0563b8c237a3d09f6e94ae640b50ad3d3079a979319cb",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "handoff",
+      "source": "~/.agents/skills/handoff",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "d215dd8f2a19bf85fdaf67a3cdb5077641f6b4108f229ba79579414793d7b0a3",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "hot-list",
+      "source": "~/.codex/skills/hot-list",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "fbfb93dea15a405d08356a24902c9d2bfe769fc6e66c511bc8445f5cbcc575bc",
+          "executable": false
+        },
+        {
+          "path": "scripts/hot-list.py",
+          "sha256": "ca078fbcdaf2ff99a3a073292ac9f40912be2d3be4fe0ea7edb1b02de5b2f598",
+          "executable": true
+        }
+      ],
+      "category": "检索与研究",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "html-writer",
+      "source": "~/.codex/skills/html-writer",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "83ffcc34780add40bd3283ad983cb55c487eb50fed921a945b7e5b24af371746",
+          "executable": false
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "daf5268338b3bba2a385c209a0ce9393cd5320d09dfbfaf6649518ecc3cdfa03",
+          "executable": false
+        },
+        {
+          "path": "assets/examples/components.html",
+          "sha256": "46baafecc682c30954c8c4be2cde982f7ebf6cc5cc1cf30d44c7c31c3e0d55c7",
+          "executable": false
+        },
+        {
+          "path": "assets/scripts/report.js",
+          "sha256": "0fc9b1e0f5126acf757af7727f4551d6927b42644d2f9516b2f9f5eb928787de",
+          "executable": false
+        },
+        {
+          "path": "assets/styles/report.css",
+          "sha256": "50753125e5f4ad07d97eb79d1e2633931e59c43ee5a2f52dc51c5f4dcaee3f51",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/report.html",
+          "sha256": "4b35e1c3d3a6f06614ea527593f2714a8579aeaf2b99c9f1eee8c995ca3c4b95",
+          "executable": false
+        },
+        {
+          "path": "references/knowledge-teaching-charter.md",
+          "sha256": "7539ef2bb465cba4bc948fdfba48dc49984532da81993fc6ce83851229363774",
+          "executable": false
+        },
+        {
+          "path": "references/project-understanding-charter.md",
+          "sha256": "6d62548db6cccd81819d61bc9332609ee7aaf9620a1811d768758003d9b6b5dd",
+          "executable": false
+        },
+        {
+          "path": "references/technical-review-debugging-charter.md",
+          "sha256": "a06af789ba34ffba50f5be67385ec5db660c3d0cafc733d811e366b5e9f7f584",
+          "executable": false
+        },
+        {
+          "path": "scripts/create-report.py",
+          "sha256": "53f69752be368d6863b5d2a9e92b6b686545adcac3a5fb234f4700c734da2e03",
+          "executable": false
+        }
+      ],
+      "category": "学习、解释与可视化",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "improve-codebase-architecture",
+      "source": "~/.agents/skills/improve-codebase-architecture",
+      "files": [
+        {
+          "path": "DEEPENING.md",
+          "sha256": "9577485f4fc32c0267639a9151bb41c8af0f8f6086e4bf8b84d5b236e30604e9",
+          "executable": false
+        },
+        {
+          "path": "HTML-REPORT.md",
+          "sha256": "8a8bcdbb578066271efe6ff675c831a6a4c4c7fd2081d6b5c9bc2e5fabc741d5",
+          "executable": false
+        },
+        {
+          "path": "INTERFACE-DESIGN.md",
+          "sha256": "678c3e34f1339015053212b3316bf0b676c70aa251050a0613667d4e755fb35e",
+          "executable": false
+        },
+        {
+          "path": "LANGUAGE.md",
+          "sha256": "6feca2140439c54a774749e8367f18350899ff69c777144ed2248cd4407949fa",
+          "executable": false
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "f00de04c7bb83cfd0ed1f97f3401a83838212c30856912ee44ba406649e6c749",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "interactive-mindmap",
+      "source": "~/.codex/skills/interactive-mindmap",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "4b2554f2fe655477a80be18ba131fb8eff232ad818181b5ac649f9c701a90d8c",
+          "executable": false
+        },
+        {
+          "path": "scripts/make_markmap_html.py",
+          "sha256": "4c73bb0c6600c0f903514c396e8da8a7151c77dad85d5f133a2c9e5024950dd4",
+          "executable": false
+        }
+      ],
+      "category": "学习、解释与可视化",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "jobhound",
+      "source": "~/.codex/skills/jobhound",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "f30d01292c8f780ee9f0a3dae9f183a73fac35c833b7d3a957f3638af29fde31",
+          "executable": false
+        },
+        {
+          "path": "_meta.json",
+          "sha256": "ff8c77cb88fd843c40f15894ac98b62ca2442a00a227d48ff12e102a851b2308",
+          "executable": false
+        },
+        {
+          "path": "assets/resume-template.html",
+          "sha256": "b52195c5823702a6e4ae053ceb14d080d8d66ac539bbf4a332469ba4db7ccd9a",
+          "executable": false
+        },
+        {
+          "path": "references/a-g-matrix.md",
+          "sha256": "f0655d067ffced44b35bc271418d37e1e7bb345b1353c7749720d407d4b90280",
+          "executable": false
+        },
+        {
+          "path": "references/star-bank-template.md",
+          "sha256": "9a5d6fe4fed3766e1ba9774b4c37a249cd62fd7065417a8b8ebd5b28589c8149",
+          "executable": false
+        }
+      ],
+      "category": "求职与项目表达",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-approval",
+      "source": "~/.agents/skills/lark-approval",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "3509dff2cf16ff9def037992b7d5d60a10e1e67988b6ab8fbfe5480e05907959",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-attendance",
+      "source": "~/.agents/skills/lark-attendance",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "a0ea5f3fa176496dda31d912f7e55ad7cfed5243b30567d16e7f9dc96eebbe8b",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-base",
+      "source": "~/.agents/skills/lark-base",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "9311c4519b0980ced7ae1749234b9a1e04d64a9ba2c7036283c8a273278082e1",
+          "executable": false
+        },
+        {
+          "path": "references/dashboard-block-data-config.md",
+          "sha256": "cc318a9df3b274ca10aa82391c03e32afcaf0deb4548bdb83811cb64062915fd",
+          "executable": false
+        },
+        {
+          "path": "references/examples.md",
+          "sha256": "0f7be64b7722b33130201187c20713a0404fb917596b6d44291d2b2df0c1e4a8",
+          "executable": false
+        },
+        {
+          "path": "references/formula-field-guide.md",
+          "sha256": "cde1028cacd338b9fcc964d9df24136fe39f0c58deeb65aceefaac773554b731",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-advperm-disable.md",
+          "sha256": "05d36503ead10e0b49c420214bbbef4be7245a7d708a78a05aaf22865876ca4a",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-advperm-enable.md",
+          "sha256": "91fd193577751dc9865b266e691cdf3a186f808977346538648d0542a52df2da",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-base-copy.md",
+          "sha256": "73c814419bcc5a8e9ef941faadba18d663fe47eaf83a32303740e0b059378f84",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-base-create.md",
+          "sha256": "ee2f67665161e351986f3836c0ce8c6a5ac5e7dc807b9374a19a974055eac45e",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-base-get.md",
+          "sha256": "92603e480db34b350fcd4e5fecbe63860f949d4c5fe1ea65743e2ebcd4f75ff3",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-cell-value.md",
+          "sha256": "d859c1b8295ab2b0cd6f5799aaf36a65a53587c60deb0fe30cf76ac58925f724",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-dashboard-arrange.md",
+          "sha256": "d903af66287796c4389c563fb084791102874b5a92cf8045593805a26fdf281d",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-dashboard-block-create.md",
+          "sha256": "5ebd279891d2efa1f2571d38f6db9c75029b3ca20188308c4d80222295224e44",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-dashboard-block-delete.md",
+          "sha256": "0391101bc3e2a5d6e169e69ece48a36f83ac2e2d01c1eb3484405fb00100cfdb",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-dashboard-block-get.md",
+          "sha256": "42ad4e82b3b9293d3880f62d4f7ced2ed1128b679aba9fc02963a07c6c6a7d87",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-dashboard-block-list.md",
+          "sha256": "823017601a9c36d8dfe11b073d57ce4ed12853d39db4f9ee3664219ebe8354a3",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-dashboard-block-update.md",
+          "sha256": "3f17ec4e0826a53424d83dc55b6a77e89a6b629ae64a6df647a116372aa8cdf2",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-dashboard-create.md",
+          "sha256": "6e275de197377e861fd5935245ea9424b02da622b74086a6cfc0a4bbfe48cd5f",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-dashboard-delete.md",
+          "sha256": "2d1e753de77b0b667e5afd8cada503b10f57bec616a003616fafaefa5a96f435",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-dashboard-get.md",
+          "sha256": "7abd66f68700643c440f591898239a50e19c6b56b20a251d93a66d27c09a2bbb",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-dashboard-list.md",
+          "sha256": "b723924c7e45936377bfbaaf3352841a3872a252a6fcf51426b2676ab55fd77a",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-dashboard-update.md",
+          "sha256": "787f7e9c4d69606434166a87f1add10a01c0b9cefd481029a108bfabae41f042",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-dashboard.md",
+          "sha256": "79cea2a2953fa462144e58d14b06bd8c2653943a775d8f89c342e6ed59cd1880",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-data-analysis-sop.md",
+          "sha256": "5d0cde83fa156214f6138d3aedcebc0be912e5f5d52fdce61e6a956f76dff1c8",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-data-query.md",
+          "sha256": "b61d6e0cac1d441e7621f8056b443d0fec3aeff6cbd29173931d764ac0f63399",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-field-create.md",
+          "sha256": "1d5383eb6863b632e46789b553c2f03627c426732e1111bcbb5e7ed0c51c4e25",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-field-delete.md",
+          "sha256": "a8c2ac0c07d9324d82b4f0ce222ee753c7da6635e6b1ec6c5161c2507f72a25d",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-field-get.md",
+          "sha256": "445cd8c2695151429e494a5e3646e42abce810f0624f9822daac18397fccd3fb",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-field-list.md",
+          "sha256": "e255466b5d80b097a64f20fcb7bc3174e96a29368360125b23c848e6ab30a857",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-field-search-options.md",
+          "sha256": "051d81c714e055d127ffe3e8fd419e38fecb4e740b44b338feee3e50d4db2b28",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-field-update.md",
+          "sha256": "4b26b33d5dd86cb8d74664d2fb7fd76182afbeef5df108e3f62871a583053895",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-field.md",
+          "sha256": "7a19eef7e94fb994b59edd07b0ac59a5f7f8a75ab8aac4de77b332f80dcc3aae",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-form-create.md",
+          "sha256": "af8920dd2d99c913678955c78eee8d3b358760d2ee1fd8b1000415626c22ac22",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-form-delete.md",
+          "sha256": "a70548d638e8a264d6b03f6fe0a0c6c57e70602658161f46f0e45bf215736f4d",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-form-get.md",
+          "sha256": "de2555f8893e7789b561395f93c80b089953c5052213f831cd10e608c7159a57",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-form-list.md",
+          "sha256": "2f4abbd42efab52a59f77c318e0dabd866fdbb4665cd8ab7e2e5f55b9e84c42a",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-form-questions-create.md",
+          "sha256": "351239be729d5fb386cf6378ba9c38307bdc3385a73360adc047bf9153301cff",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-form-questions-delete.md",
+          "sha256": "e2cc8406a7427ff872839a02a8691bc90de0ab6fdee3e5f4a707e5e2fd938d03",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-form-questions-list.md",
+          "sha256": "e7c4dc232520c0bc8da88f6977899bac51195a06f0e0880d35f019ac60f8e114",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-form-questions-update.md",
+          "sha256": "cc9a3621bbb52b55fec0462d38cdb9c404a1507924da8c886e51dba1c2c86bf6",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-form-questions.md",
+          "sha256": "078b016000a0fd2c8cd4de118bdcbfc4bd2fc1aa21308d2769678a2a1875fa7b",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-form-update.md",
+          "sha256": "20fda299dc71451cc077efacef92504ce5ef3b9aa23fcc768c46eb59178e99cf",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-form.md",
+          "sha256": "d85662a4ebc57c2b97060530396db906cd102917c1fc3aae67825e712c2f4022",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-history.md",
+          "sha256": "5eb5dee08ef909dc87611c1e6f7cddf15adcbb6e94e401a952ddd36c738bd546",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-record-batch-create.md",
+          "sha256": "093868dd85788e41509ead7a3ceaa34807c1dea81cf37723f837328d10ef3229",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-record-batch-update.md",
+          "sha256": "96789f7a5ecebc73c616b9ffccd3045947ea0a2b3ede3927cc517add65773017",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-record-delete.md",
+          "sha256": "51b2de73559873955e21181df575f3df19dcd0551ba4fbb44237c9f1d7ac25e1",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-record-history-list.md",
+          "sha256": "65e4b3ffc8d268394398aede90124ad4d80f186dc603769e949bcde6ae460ba7",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-record-share-link-create.md",
+          "sha256": "b38bfb8068a5855b1ac16c2dc96217d9dffa5f3b7bd074c938582f2cef885b16",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-record-upload-attachment.md",
+          "sha256": "a71471147725ba5afd4de15c9ac716bb719f96966ff7db5e5d6ca5f68d361532",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-record-upsert.md",
+          "sha256": "3f830f29e16361b52bfb013e1b7cae9dc194b8ccc09feb3a402afd8c370a4ca5",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-record.md",
+          "sha256": "55cdbf35ccea42b8056ca6d00c01a76fee65f4750aa0103febae796db9237356",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-role-create.md",
+          "sha256": "fb10e0924a7ba1a8e2a0387bf694d0018eb013490a3bc73bb0c7253f578bbdb8",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-role-delete.md",
+          "sha256": "549c51bd252ed017d8a27c3ead85ff46628bc16894cd0fc0b08eb053841860b2",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-role-get.md",
+          "sha256": "12f811421870ad85f584010ffaa4fba01ab386f051f1a1dc4483bd16ffd015b3",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-role-list.md",
+          "sha256": "11a5dcfe51256e0efce3834ca51e7842bb0532379e9c79858f6f98dad2e6ea47",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-role-update.md",
+          "sha256": "f0f0108ae9e00195600e7ccdf21b75ddbf883b9a7ab4e3ea7162680f4ac91986",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-shortcut-field-properties.md",
+          "sha256": "5db5335ee798a733ca094b9b7646cf2986033ba9caf5ba6c70fbd4e2d7cf889c",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-table-create.md",
+          "sha256": "23c4de0912e68be116a841ef7a381df8f55eb150dc0e1940b701371ebb660cca",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-table-delete.md",
+          "sha256": "e837c0911381afdcc9394c4144a9e0fbb8e7f9f905487b4953065faa58282000",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-table-get.md",
+          "sha256": "eac9ef07b5c157f284563190885ff9ab23318f82218696fa407a43d5912aee4f",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-table-list.md",
+          "sha256": "00eeb746d6620b12b2fca673ec0e912882246f8e1a5db02f63c2bc4bda95b893",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-table-update.md",
+          "sha256": "08bac24758306d002316ffdba2678db2eac7d03b406d6ca4a68f827afb1bd380",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-table.md",
+          "sha256": "a6f82974e4e4af616ab24f19f13a974b28b174ad01aea6a4d806fb2ee798029e",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-create.md",
+          "sha256": "f40fb05f0fb1dbabeb833bb2c242c2150093dc2de8468ef298abc902c3a0c84b",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-delete.md",
+          "sha256": "ff793bd36c8234684f72b25564744259e690da30d44e2f2ba244fe65186ec2b9",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-get-card.md",
+          "sha256": "d841409fdf659af685a310766dbd24c80d16a2ec90210715aecfe9aa69dc8c61",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-get-filter.md",
+          "sha256": "d0181e83b534b76f007ae9ab72dfe7b043efce8b305b16c962665f9859723e57",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-get-group.md",
+          "sha256": "06ae779640a53c12da9b4ecd6d1d411ed67e0d19b684daf52182597c5443633c",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-get-sort.md",
+          "sha256": "78cba8dfa78f809a74df8b8544e1b4cf859e10ba0e12cb472e11f447ed240ee0",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-get-timebar.md",
+          "sha256": "6fc13d1cea144713e95aa07f15671129d2b8f547ef9b8b8c776351faec4e450a",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-get-visible-fields.md",
+          "sha256": "c3222d34c3b396ba7e6148413562accce1dd71b7895845af9b4a82bd730670d9",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-get.md",
+          "sha256": "85269658f2930066a80f41672b4466a55ee24270f1984ec0a4176b951fd4cbd8",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-list.md",
+          "sha256": "ed409d8e578e7bee2814d7d2b4293c7500537a6755c400fbcc738a769d853b93",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-rename.md",
+          "sha256": "106ddce503f5d9088a407c59ee3b5025b1f3289a6bc15514a32ddc26fe29e8b5",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-set-card.md",
+          "sha256": "39630f6bab34aa5fe68e16b5fbfd2a12dbd56b1c118dbff3dbd660737181b3cc",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-set-filter.md",
+          "sha256": "d12a8f91590951fb00e0ebfb8fec9666ed7b8a17919fba5fbb7a5c7015bc18e1",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-set-group.md",
+          "sha256": "103d66bd207bae75b91980ad48857e7dbeb4e3501b3658b53027d44578f0903e",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-set-sort.md",
+          "sha256": "a7f24bb2267eb7b768a7129d4183385e7ba1268e869351016099eb98b7cc5cda",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-set-timebar.md",
+          "sha256": "701fef8bbfcaba87bfded19fabe18f656f8679ee7eb72ee41053dbe817519d68",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view-set-visible-fields.md",
+          "sha256": "4731e0f53556da468ae5221d1cc3ce2e38403ee508c09d299867795988bbb139",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-view.md",
+          "sha256": "c5afc15cf5941d4d7196732ab7cb8ccab15ef50419cd12ebeabb049069f12604",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-workflow-create.md",
+          "sha256": "22ca47b7938073a7372cb20690d7f53db3f83bb6ff08e468e166b1173e71c4f3",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-workflow-disable.md",
+          "sha256": "19b39a6e3a881614330d4bca6171a1c5dc4d623d7141d819b7d306bb7f7b4194",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-workflow-enable.md",
+          "sha256": "0ebc8e39f32f5b664bb8cd5128ab6199050d09f47225857569c24de439aa2d20",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-workflow-get.md",
+          "sha256": "52cd887a812c0ef1966f45f76cacf0f76914dfcc5b978276ef74be855e737122",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-workflow-guide.md",
+          "sha256": "3198cea58cc735a9b838372329bff29f5505243843647f17785f94bb7421ce97",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-workflow-list.md",
+          "sha256": "f67dcbde6618547937521ba4b27f9e91d05d1d024c9a856e286f4390b8b126e7",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-workflow-schema.md",
+          "sha256": "0e9f722a8b3ce3c8eec2dd70c25dcb60f359d32c4e9af7cc68ccf73c54aade49",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-workflow-update.md",
+          "sha256": "8fe49981ce5bcdc3114e2ae298fb310992cb7d1fe8e0f0146795f57d631720c3",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-workflow.md",
+          "sha256": "573360ed0dfcd8da0df819ec6e6e0ded12aa35d5e864f4aef1067807346b487f",
+          "executable": false
+        },
+        {
+          "path": "references/lark-base-workspace.md",
+          "sha256": "d8178f5db0f006feb774e0bf2e5147558cbcbfa5cdbae9a094275c444dd83cdc",
+          "executable": false
+        },
+        {
+          "path": "references/lookup-field-guide.md",
+          "sha256": "7c22d5dcabfcb6bd70f16d912394e3e3a546d381001261e43878f5704c875b1c",
+          "executable": false
+        },
+        {
+          "path": "references/role-config.md",
+          "sha256": "b1f89be9b38ae89fb7bef4bd22fce15216bfab146a15ddd383afb7e86a400e23",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-calendar",
+      "source": "~/.agents/skills/lark-calendar",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "1b45eab3d08454321d507e8e45b5c040afab7fb74fbd6ad5ce2fb1ef12736317",
+          "executable": false
+        },
+        {
+          "path": "references/lark-calendar-agenda.md",
+          "sha256": "810713427524da397939ff95e3f5bcfd870fba1fcc8b2c7546f2253969d57d65",
+          "executable": false
+        },
+        {
+          "path": "references/lark-calendar-create.md",
+          "sha256": "23433c243fc3bb1dcd6fc1cd6d31633f3740b126fb32ecb53587408368421b59",
+          "executable": false
+        },
+        {
+          "path": "references/lark-calendar-freebusy.md",
+          "sha256": "ff3b79ae776e4fb7b37f58f41c1826056b717f0d57087c6fcd30833fc20bcbea",
+          "executable": false
+        },
+        {
+          "path": "references/lark-calendar-room-find.md",
+          "sha256": "edfa65a74174dba9f8a4b474e94ae16e5bc5afd6b5d3d8c57f7234d5cee984b8",
+          "executable": false
+        },
+        {
+          "path": "references/lark-calendar-rsvp.md",
+          "sha256": "1ec25ef0827c5a0f5823b42c86e3e2dc9dde55fadcfad73b8daf2e845a729369",
+          "executable": false
+        },
+        {
+          "path": "references/lark-calendar-schedule-meeting.md",
+          "sha256": "3a5ab5622d29b71985ec195416ac0ec7817b8e9c5ad694a5df517b3deb448332",
+          "executable": false
+        },
+        {
+          "path": "references/lark-calendar-suggestion.md",
+          "sha256": "6398e2172951919e94e299f0d95ae41d9b0e70d91d106978e47646cdb35257c6",
+          "executable": false
+        },
+        {
+          "path": "references/lark-calendar-update.md",
+          "sha256": "5d0f262cedbad499ad58dd86f8dac8e4a6a4a3b4fb5dda3ca704b58840460441",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-contact",
+      "source": "~/.agents/skills/lark-contact",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "01d652eaf7bae4829d3650a8cffc0e4f1ad060ca5a94166dedc46a535ad01ccd",
+          "executable": false
+        },
+        {
+          "path": "references/lark-contact-get-user.md",
+          "sha256": "24ba2fbd92ec33ebf04de44a6bb10ee9af91e5808aa8d1898486d332da2c5b6e",
+          "executable": false
+        },
+        {
+          "path": "references/lark-contact-search-user.md",
+          "sha256": "70282ead84762fe71e07363ab0f0c265f011b0c021caf0452b2fb6d8b4e1d35f",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-doc",
+      "source": "~/.agents/skills/lark-doc",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "43a4e9e2e4d5537caf94e4d449f59456b48c9e7c218238af64601218db0f6191",
+          "executable": false
+        },
+        {
+          "path": "references/lark-doc-create.md",
+          "sha256": "2829456a92d4fcee9525b292bd490d82da995b51e7600ab868f7c0283a682f1e",
+          "executable": false
+        },
+        {
+          "path": "references/lark-doc-fetch.md",
+          "sha256": "f80af9f538c747e434e51920caef53fd665bd8861620a61d46594908e79c762f",
+          "executable": false
+        },
+        {
+          "path": "references/lark-doc-md.md",
+          "sha256": "7b0e0e132d93f2974264c359d066f3a21f957cafe9a13b0637bca69e8e7486b9",
+          "executable": false
+        },
+        {
+          "path": "references/lark-doc-media-download.md",
+          "sha256": "d4c7f67d07b907106a037500e5809405ce74ee4b642767af3e417c5edd527277",
+          "executable": false
+        },
+        {
+          "path": "references/lark-doc-media-insert.md",
+          "sha256": "1c1e4f799ba056e51a7cb84188da3d3c4b22d687403b43d4bb8971551b455dfd",
+          "executable": false
+        },
+        {
+          "path": "references/lark-doc-media-preview.md",
+          "sha256": "ebecf432d6ad0dbfa249cbf3dab91e7e20e25ee29e1c4874a039aa2bb8194200",
+          "executable": false
+        },
+        {
+          "path": "references/lark-doc-search.md",
+          "sha256": "2640ee97762ab91c5e9556c818c5e467fc04cc91c4ecb7c4cfe2c3b8f6875074",
+          "executable": false
+        },
+        {
+          "path": "references/lark-doc-update.md",
+          "sha256": "9cfba006b8cc7f17de604775cbbd120eed29a79c279fdd04e9544363f8459344",
+          "executable": false
+        },
+        {
+          "path": "references/lark-doc-whiteboard.md",
+          "sha256": "900e26f29d85f775a9bd33bf13b07b3e67eebf57d01eea8b6407a959e92f2ae8",
+          "executable": false
+        },
+        {
+          "path": "references/lark-doc-xml.md",
+          "sha256": "0b89e88f26f15d0477dc57cd5971405f4c3a2ee45dca309101805c93bed098c3",
+          "executable": false
+        },
+        {
+          "path": "references/style/lark-doc-create-workflow.md",
+          "sha256": "b51e7412716e26f36b44275fb148990925ffdd5eaf7591267efe5a5e36829090",
+          "executable": false
+        },
+        {
+          "path": "references/style/lark-doc-style.md",
+          "sha256": "af50103f52d14c88d6ad906875d5b6a2ac55039e33cf8df90c563eb5f3aa57c4",
+          "executable": false
+        },
+        {
+          "path": "references/style/lark-doc-update-workflow.md",
+          "sha256": "07499da6c82b515257c1e134eccc77bdd94c3fbf636adbd02ce8c38f4da639ba",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-drive",
+      "source": "~/.agents/skills/lark-drive",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "7c2fd3918759ef46698ba5cfdfd684aa7760e1ca5179ca5ccc773ad686fbb749",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-add-comment.md",
+          "sha256": "ff6752bb54beea2d14d242161251c84b381d6c57fad06838cc0acc3849d02f71",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-apply-permission.md",
+          "sha256": "d267016d3cac5f73d5be1fdfab8e28c495c6eea3389eff641398acd666d814e7",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-create-folder.md",
+          "sha256": "2dcc2d29b4c9119395b9ca1b13aa6d04c4cbe2478985db15455430c511eb4c8f",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-create-shortcut.md",
+          "sha256": "aca426b7dfbfb44c2fe17d1801bb2525ef770e7bc763fb2e0e6dbe3f13bb829d",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-delete.md",
+          "sha256": "efd530e3d60eeca98fa1314a01be4d7f6905ff9693f26b9c79bce7ae53b05106",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-download.md",
+          "sha256": "0ee64549dff3dc86eacd0f940784e2fa8b04cd91ad77be32a44f45920a572ded",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-export-download.md",
+          "sha256": "e02cb3e43a485371bc491f9ce214e4b620d45560bacff0999d223c2f911166e1",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-export.md",
+          "sha256": "28cbb4fc64db7f3af380bee2f91e6a4c29082b3552a0e86a6ca28c4e4f98dbc4",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-import.md",
+          "sha256": "71449f17ccd57a2a9cea556aee6ecfa80eb092c934f6794acaa189120f49c934",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-move.md",
+          "sha256": "c4da1157d8994dc1ec4d94173f6f1e613fd04ec39eee0b5e9fd0af48f6db4c81",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-pull.md",
+          "sha256": "722d735ca1676da24ca871b67f43f118aff8087814ccbb0e7331d026dbdfc908",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-push.md",
+          "sha256": "48075fcf824cb1d031a295de0ce23ca65854316e2827f0327575c16d6ef907f1",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-reactions.md",
+          "sha256": "7c6761ac97e2e65f1ddb9a368a916a2a2b17b2d7c8b3146f1cad531b394c720d",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-search.md",
+          "sha256": "0152b5157f15515843bbb2757e5f167fd1e8b6de02ce213baf73e0e0595fde8c",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-status.md",
+          "sha256": "10769fc4e3ca8f4f9dedee6f23c225996e401bd23b7bea2f33971afefc116139",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-task-result.md",
+          "sha256": "0feba3abac5e5ec64ed1336792159b00befee57af69a4c40fdb2b62c779535e4",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-upload.md",
+          "sha256": "20cbd4ce992d67b1fe83526165461abeed73c41f490dcb9a94fa4fe5941140ee",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-version-delete.md",
+          "sha256": "0e47f7d95496c97c8143f74bcdd829b41a5d5a6ad10c3998c995cdf774497704",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-version-get.md",
+          "sha256": "7bfe1629ff5f6838dbc251619d9bd7226f3c89e11a97a2c2204357c7354a057f",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-version-history.md",
+          "sha256": "aa1110d97a19ccd6dfdc78e1a5ac9cb74bbc6d74379a8a22d78bb5de99575294",
+          "executable": false
+        },
+        {
+          "path": "references/lark-drive-version-revert.md",
+          "sha256": "c909d6a84cb0e6c783b0685e8c1c4bfe9f79db8a59bac056e60c46b033aacf3e",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-event",
+      "source": "~/.agents/skills/lark-event",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "eb15efa01cc308a6db0c3d4aef75d7c146cd7c197cbaf6cace760d010e92e50c",
+          "executable": false
+        },
+        {
+          "path": "references/lark-event-im.md",
+          "sha256": "b67c3cad7c1748477f66fd99ebf19dfc8f9b5a773f3a36bb5305ce2c5b66486f",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-im",
+      "source": "~/.agents/skills/lark-im",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "616e4093572a2202d71a22259efce22273c639a54af5fa31098b39cd70324ccd",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-chat-create.md",
+          "sha256": "2757a5849b8f5426379200209c8141adedd16243ff4a0dcf84e201d6cc9f9f6b",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-chat-identity.md",
+          "sha256": "449708ed9be8b3b4657c685509e9b587c4f728f51b00bdeb08db20941a4135b1",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-chat-list.md",
+          "sha256": "867269726e570ab749938b22f0c5eb4ee177e7a1cfa90de842eef84e58a7a656",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-chat-messages-list.md",
+          "sha256": "a9e250b55143bfa46b92373d1ce0400f68f950500533a5080f21b906b6809474",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-chat-search.md",
+          "sha256": "f84173d20cfcd5d6755cb9f0b4fa13f844a29f0ce64be0077ff13fbd8e09a4fd",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-chat-update.md",
+          "sha256": "5e27243b3e230711107f1bf05b99fe282e8b23b0aaeb411e27a7fdc66f689f4a",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-flag-cancel.md",
+          "sha256": "bc1a242cf265cc8744d3c5e4e326248d797c59b2d37117a353ae523a2166483b",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-flag-create.md",
+          "sha256": "61f13376f14986f61b1e61146ee5d89fbd5c978d574cb13e78e52c71f982761a",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-flag-list.md",
+          "sha256": "1baab8956d29eef137afe9f98c8715ee5bcb4c9987851f2393e798d876d4ba48",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-messages-mget.md",
+          "sha256": "6ee4a509ebe37849fd7b70d0981a9ce5ecb32ee7ca2100561d27dd630402d85f",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-messages-reply.md",
+          "sha256": "24a521c92f249dafba04a73da25a78a3c5483e1e39d0d92a3211e4d171e4d424",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-messages-resources-download.md",
+          "sha256": "54d59b009672bb0533d5eae3bd5496eb6fa559496bfd4a7be96544627f7c36d7",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-messages-search.md",
+          "sha256": "765eaba0e67d23b7bd65cf80a4ca147cf1e7cbf6414efdddb575849221320e28",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-messages-send.md",
+          "sha256": "f41bd266c0f79d1ff033096bf3f84ca1d527cd74ab735e536e35869a0b9adb73",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-reactions.md",
+          "sha256": "97f0cd3b0d3e672f150314fc7e41534b78244af78eeecd34b00949bb765e1945",
+          "executable": false
+        },
+        {
+          "path": "references/lark-im-threads-messages-list.md",
+          "sha256": "820573d2a8e7ce447bdc4189eda6acc635019f50b79a06b61294055f3804a5cc",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-mail",
+      "source": "~/.agents/skills/lark-mail",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "dc0e40c8980a0ffcecca33a3a73e03d872051d521749b7ae7341ebb43f001f58",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-decline-receipt.md",
+          "sha256": "dc888a26f4eda3aa1483f6be81f02eac32d053b41bb6089b3b1badd327053665",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-draft-create.md",
+          "sha256": "0c57bf5ae4f09185aa621f2a708c18ce182d94fad41da40adb5aaa3e37537d74",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-draft-edit.md",
+          "sha256": "7b430dbb16498d4aa260ce730303f01aaf61e6295bb88181cb1a57df31e060b4",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-forward.md",
+          "sha256": "808612b1f493c873558f5f9be03e4b489cfff7b353df5d7fdd6fbb25af7acdab",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-message.md",
+          "sha256": "cc27e13876dad4f47d83d7838267bef75a96ab2870b2e58a0b97bc72a1a72b6a",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-messages.md",
+          "sha256": "908aea214f246a719bcca039bee11ad198796c59a8ee2e239effa09d4050227e",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-reply-all.md",
+          "sha256": "58d003783bb32886d0524df922268c5f55083f0462a9b9929045acf4f53ab9ce",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-reply.md",
+          "sha256": "674c6be7e699f5c77447aab45213fc66b2192254cc472944ea56cb9f17f799c2",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-send-receipt.md",
+          "sha256": "19af1149866916a9d7403f92405cffa70d1cc4e3c364dd54c2d82c45f7736c56",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-send.md",
+          "sha256": "b20381dcf99317fc7fd283feb9d80c50a1261b36a6d815ae8d63f1c47edbc0d0",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-share-to-chat.md",
+          "sha256": "983a642f8305312ee81a98f45760ffe8ad720347bd8c4fbaa55beb38baa05a9e",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-signature.md",
+          "sha256": "fa759bf8b2ee70dcf3ab5403e6f31833d86eb1cf86812dd7c30dd909897416b2",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-template-create.md",
+          "sha256": "368c9bc14dd4e2cf81f9e0efbc112b695a2c6055fb601cd48b85fd16ef39c02d",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-template-update.md",
+          "sha256": "f819cc2504e4e8898a7fb1fbd4f63b6e0ea07dd3e1ddc14c1649049ba78abc40",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-thread.md",
+          "sha256": "ef0f803f3dc95c4012e55c3da546a9835953e56cbfdbb5fc759a3d277cee4503",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-triage.md",
+          "sha256": "0b5ee4c76aa1fe7a1f6ed7fe246b6c7d83fefd05267fcddbb1e6077355da5833",
+          "executable": false
+        },
+        {
+          "path": "references/lark-mail-watch.md",
+          "sha256": "3e9bd88f9b73477165128c84433931734255c1a3d6c540a2e773d644a247be12",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-markdown",
+      "source": "~/.agents/skills/lark-markdown",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "f5bf2104f7f90e8d14653c6f02adc96ef61f48cb4f1a2012047d56e1ec51a470",
+          "executable": false
+        },
+        {
+          "path": "references/lark-markdown-create.md",
+          "sha256": "3f4788c0a9e6eb8c19f6e3b9c2173ecb4104867aa8e13836d78a8765b1e3200e",
+          "executable": false
+        },
+        {
+          "path": "references/lark-markdown-fetch.md",
+          "sha256": "0c68f0d56ddd7272485f32f7cf9321171dbdd1be4c4f98e0304beb78038bf2d0",
+          "executable": false
+        },
+        {
+          "path": "references/lark-markdown-overwrite.md",
+          "sha256": "67265b9bc7ca2e97ed966f7bf693e349f10795e567e5e80870ba4b39b1d81bd0",
+          "executable": false
+        },
+        {
+          "path": "references/lark-markdown-patch.md",
+          "sha256": "4e4a5cc39c87722500dc8f121045f8f7e159cf913ca521bfd129cb5c96c62192",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-minutes",
+      "source": "~/.agents/skills/lark-minutes",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "564f8fee4b8a36a14c323c16d24f12c469cd7b36a2bd119a264e8ed37f2ced4b",
+          "executable": false
+        },
+        {
+          "path": "references/lark-minutes-download.md",
+          "sha256": "c3dae9d73080f32f330d5978d7757c02abba38b24680452731aa6923b42ee2fe",
+          "executable": false
+        },
+        {
+          "path": "references/lark-minutes-search.md",
+          "sha256": "afe1df6f47cad9d254ce2b6a111fe7e7758900b89dacbd410e414311aba510ef",
+          "executable": false
+        },
+        {
+          "path": "references/lark-minutes-upload.md",
+          "sha256": "3f7914a791f12e2cf4ae2ae512888d8cf92a08f5b87c4b2806b42f34dc642812",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-okr",
+      "source": "~/.agents/skills/lark-okr",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "eb60b0922e324ed269a54e4c47904ad11b82139905b3d08d354a57a5e3e558f3",
+          "executable": false
+        },
+        {
+          "path": "references/lark-okr-contentblock.md",
+          "sha256": "11a75f520d658a9a4c29191e8ccc67f3292dfa07ad2fd998fb31daa70bb8d424",
+          "executable": false
+        },
+        {
+          "path": "references/lark-okr-cycle-detail.md",
+          "sha256": "7bc2c7b1cb9f3b04e3b96dae201f48cbc31406a4e44c9b6c28d13c636b76f8b0",
+          "executable": false
+        },
+        {
+          "path": "references/lark-okr-cycle-list.md",
+          "sha256": "edd01257f2b02c169ffec485d226ec6515d7448b9d3defb6bc55d221838084cd",
+          "executable": false
+        },
+        {
+          "path": "references/lark-okr-entities.md",
+          "sha256": "615fa21c04155413700bec22ad11751e6d06a6c45ca74941a8637b4a67032766",
+          "executable": false
+        },
+        {
+          "path": "references/lark-okr-image-upload.md",
+          "sha256": "4a5324ab2cc5b4ca42d51ef8066ed9e3375c921cf243eb40bbb41d73bb7e7bdd",
+          "executable": false
+        },
+        {
+          "path": "references/lark-okr-progress-create.md",
+          "sha256": "6180a09a96f86b069af2f6f8822eafa655336f912a5aef32ced5227e6dba8197",
+          "executable": false
+        },
+        {
+          "path": "references/lark-okr-progress-delete.md",
+          "sha256": "c96a580dc99bdd5e675718cf799870d6d84b7aa9b7f6f5f51c88182f9965d7c6",
+          "executable": false
+        },
+        {
+          "path": "references/lark-okr-progress-get.md",
+          "sha256": "47b8ead617177fc99b41f66b6e8a0f00397040d3a7fa861c0602385233dbfe68",
+          "executable": false
+        },
+        {
+          "path": "references/lark-okr-progress-list.md",
+          "sha256": "a9ece8f369ccd1680be1d936dd7fea1421583d9f42202760852bffd23f36585a",
+          "executable": false
+        },
+        {
+          "path": "references/lark-okr-progress-update.md",
+          "sha256": "5ab9512f440f12c66de9c1355cf053a9db0f5550c61e65a3a7d18283be5d0bdb",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-openapi-explorer",
+      "source": "~/.agents/skills/lark-openapi-explorer",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "ae89debc3f807f9947831b4525e1c118bc14544877c14c14aaa47298b1e863b4",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-shared",
+      "source": "~/.agents/skills/lark-shared",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "62b3386d909d2ebc913dfb24bbeb9fc168a13945f7ee884d3e3fde71c1c21bb0",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-sheets",
+      "source": "~/.agents/skills/lark-sheets",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "3738abcef808cd1f63020d58cdba035994dbde12cfac9268880776770d7adc82",
+          "executable": false
+        },
+        {
+          "path": "references/lark-sheets-cell-data.md",
+          "sha256": "b5ccf7ed434aa732ef543515dbf627c2885cc6ec952d8af20e9d995638e98276",
+          "executable": false
+        },
+        {
+          "path": "references/lark-sheets-cell-images.md",
+          "sha256": "571411163d6411fb9658face1f7a6d9cf42ebbc93783fdeb9af5ea7d99d34ee7",
+          "executable": false
+        },
+        {
+          "path": "references/lark-sheets-cell-style-and-merge.md",
+          "sha256": "b7039a8aace961ca1f4f1f98ff6e87e64492f3c666e3ac7f0ea737423722bf81",
+          "executable": false
+        },
+        {
+          "path": "references/lark-sheets-dropdown.md",
+          "sha256": "31279b5cc5682be405bae16095e5788ab177dada80fc295e3fbfd46c8184adbc",
+          "executable": false
+        },
+        {
+          "path": "references/lark-sheets-filter-views.md",
+          "sha256": "6ef382e8286474c78832f68a815a56b9a1171a59ba0c7a1ae2cb0cedb7ebeec5",
+          "executable": false
+        },
+        {
+          "path": "references/lark-sheets-float-images.md",
+          "sha256": "431faaac5ea35d7615a4cbef119c89578f9155e7fefb3a11baa5093b4a556638",
+          "executable": false
+        },
+        {
+          "path": "references/lark-sheets-formula.md",
+          "sha256": "82953029dcaf3cea6bb934a0c214da99d7a55b96ac0f3a3204f470e659b22228",
+          "executable": false
+        },
+        {
+          "path": "references/lark-sheets-row-column-management.md",
+          "sha256": "d98c8af2be5bd535f0caedc6f68c9590d3c52220d1d23f86b50d8a5f95dc2126",
+          "executable": false
+        },
+        {
+          "path": "references/lark-sheets-sheet-management.md",
+          "sha256": "cf31c86753be34955dadd47cf631322299795c797ffe691c644c7de47f4fd90c",
+          "executable": false
+        },
+        {
+          "path": "references/lark-sheets-spreadsheet-management.md",
+          "sha256": "b89b5dfde342294299722a1c45696151981862d8b9c1e1103f000e620c206d98",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-skill-maker",
+      "source": "~/.agents/skills/lark-skill-maker",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "8591158289a3cb003c7ac18001ce6b42837c780d2567492cea87bf98982b3678",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-slides",
+      "source": "~/.agents/skills/lark-slides",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "e27525f0439216baeda6018104ce5267c3ac2987571e899d0fbef784677912df",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/administration--all_hands_meeting.xml",
+          "sha256": "da2097b75003b64b58b43915a76ae830a71d97adeac29addb74c5e62c2a8cc06",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/administration--annual_gala.xml",
+          "sha256": "f8e379f5d0f51e7f07ad7238c8600d661bcf080019c387fc860ab4bb8ff9f243",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/administration--company_intro.xml",
+          "sha256": "6dbeffcf5eec4c126fdec266d1272bdd58ccf4629cc4e3092d200dfc324237ce",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/administration--corporate_culture.xml",
+          "sha256": "bfd97f8fa63d59db63bf745452e62e54bda5dd655847c43303c393910970a428",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/hr--employee_training.xml",
+          "sha256": "704eb2bcc35e307ebe9d2b99f41a0c2db49cc166bb21e25b0bbeba89e60ba536",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/hr--employee_training_workshop.xml",
+          "sha256": "18880d746884b8b2dd82398a747876f9f4d0d1429b9a5d9a5cd6dab3b8168b88",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/hr--onboarding.xml",
+          "sha256": "a23a12505ed3f803b160757427a95939900d3eefdd1afb08f695d074337d331c",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/marketing--brand_communication.xml",
+          "sha256": "1b4956197dabc8e3d9ed6df4daeaffd05b88c7768dde663efeb0f778bdcc41b2",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/marketing--brand_logo_design.xml",
+          "sha256": "8510b2c63f821f73b70057d71c5be1978efe66723fd39e65500684b6614e56fe",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/marketing--brand_operations_plan.xml",
+          "sha256": "1b2a512c8c7eb4483461a224db2e0db0ee76bd3a7336830cc36af32e33fe3bda",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/marketing--business_plan.xml",
+          "sha256": "951bee6fcfa23eca451444192f47a9decc53faefe6c4b01d286752718aad2ee7",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/marketing--marketing_plan.xml",
+          "sha256": "600bbc157ecfc493a6d0c05ee27a82bc6eca5ec9be87d03aef054e2425530301",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/marketing--marketing_strategy.xml",
+          "sha256": "fa2d0d80d5076610c0b99d20acaeefb627c17a2ad202efa0ad0eb2f9db69c234",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/marketing--product_whitepaper.xml",
+          "sha256": "b09f9fbb73d8434e4206bf237a1447c597db786e851c214bffdb982eb4f09366",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/marketing--roadshow_business_plan.xml",
+          "sha256": "f8299013a1ff1a0420333f8f0d7d4a9bd653a5a2e313aad628617dce2043f41b",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/misc--book_sharing.xml",
+          "sha256": "cc6a910379fafaeee07464fe97f795fc442afbf84b2524c2102fd54aaba74e14",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/misc--club_event_plan.xml",
+          "sha256": "91251a12beeaefcb290e19adc41e0cb6435e95237ac886cad6d38071b2f1b8b2",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/misc--student_career_plan.xml",
+          "sha256": "15a8d986bc5ca0ad621c6157f6744b3b708a1e56cb3e2a298157b2f936eaf112",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/office--dark_general.xml",
+          "sha256": "f6f70cc77e0101811b521b32f38c4331cdc9a56bb91ec987614591a1350bf5bb",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/office--dept_annual_report.xml",
+          "sha256": "805a48f14e44d867ef8e21b4299275b9019c184fb46ab2772930bed369d21b48",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/office--light_general.xml",
+          "sha256": "ca3eb82001238023d3d9ccc30f1c776a00ae3908849dc01d02eae28d4535ac19",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/office--project_kickoff.xml",
+          "sha256": "618219c4c1d1423db8f1b29bfbfca65d57fbeac935f778e7ac5dc7f96d15ce8c",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/office--quarterly_review.xml",
+          "sha256": "101b445ceda65fa088c62a8e8edf74526c463f32628b6992f76fccfef111f766",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/office--work_report.xml",
+          "sha256": "08eb23c24478315b838f907dbbf3ea3edbcb5dce1c5b91a64f46f28ab079829e",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/office--work_summary.xml",
+          "sha256": "e2aff31c704f810f5e3fc0e4caa4cf5047a936f7ff2bde41532d99a07053796c",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/office--work_summary_report.xml",
+          "sha256": "232e54b627d896cbc888a51766ba75884be3f4a473d89c2a31a8e1493e7bc523",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/operations--brand_logo_design.xml",
+          "sha256": "8510b2c63f821f73b70057d71c5be1978efe66723fd39e65500684b6614e56fe",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/operations--brand_operations_plan.xml",
+          "sha256": "1b2a512c8c7eb4483461a224db2e0db0ee76bd3a7336830cc36af32e33fe3bda",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/operations--marketing_plan.xml",
+          "sha256": "600bbc157ecfc493a6d0c05ee27a82bc6eca5ec9be87d03aef054e2425530301",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/operations--product_promotion.xml",
+          "sha256": "6bcf07b048f72cf425a0eb68688bc24e699fdc4d2d7237c9e6c7872f91cf5191",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/personal--experience_sharing.xml",
+          "sha256": "bc2dd06c505d3b03c4a157c6af6e7f6318cc1278440f5b65950b4c7b7621779a",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/personal--personal_resume.xml",
+          "sha256": "eb407262940be201cc63882ec241501c84533ebe2e96dcf2b2fbf79e455de84d",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/personal--promotion_defense.xml",
+          "sha256": "77bc6ce1b863085297d5223f1a86a7bc5e88ce72f428740c2c8cd08dfc49166e",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/personal--promotion_report.xml",
+          "sha256": "35e81547a8568280d548567bcf38c965defef256748a2b14bbb652524be73236",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/personal--self_intro.xml",
+          "sha256": "f8c1b89ceaabd29b45d45ad8d20454724e6ae295e1a880cdea412d630bcbaea8",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/personal--teaching_sharing.xml",
+          "sha256": "1b98c2bd93d364a47c0d4445f5418b5954d899968be5032b77110b1f73b7e741",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/product--business_case_analysis.xml",
+          "sha256": "6a1ee314548e84efb4ff8b36a1ded03e8203ae35b3b6c752e2625f06c5091830",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/product--market_analysis.xml",
+          "sha256": "287867189b8a1606cfd72eb9b0cc3035be895edfe7cc68968397b50d2451f12f",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/product--product_analysis.xml",
+          "sha256": "05a62b00f456e9498bd1a5c8e01ee61c02f38b1b2a6f66b89ce4af3c79d811c3",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/product--product_intro.xml",
+          "sha256": "319cf60656a68eaa2b0d64fb8ddc7afe26611fea2bae80275d66e0d1c5f2ad4c",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/product--product_promotion.xml",
+          "sha256": "6bcf07b048f72cf425a0eb68688bc24e699fdc4d2d7237c9e6c7872f91cf5191",
+          "executable": false
+        },
+        {
+          "path": "assets/templates/product--product_promotion_2.xml",
+          "sha256": "6bcf07b048f72cf425a0eb68688bc24e699fdc4d2d7237c9e6c7872f91cf5191",
+          "executable": false
+        },
+        {
+          "path": "references/asset-planning.md",
+          "sha256": "0b7149b3e91f9f86e4488593db547f15ff322cdda5611d4de50316b2f3f33bcb",
+          "executable": false
+        },
+        {
+          "path": "references/examples.md",
+          "sha256": "3e465212249d8f7ec45460e009d3008aa3995824a82cc0840d81f37c9b333ff3",
+          "executable": false
+        },
+        {
+          "path": "references/lark-slides-create.md",
+          "sha256": "6c28e8afb6e58e1ace2ebe63afb1943865953a04e9749a51c521a3ab36438045",
+          "executable": false
+        },
+        {
+          "path": "references/lark-slides-edit-workflows.md",
+          "sha256": "45e597b23a5925a40ffd37212bdf898f5b61630e5a3b3104083bfcc2cae9f439",
+          "executable": false
+        },
+        {
+          "path": "references/lark-slides-media-upload.md",
+          "sha256": "f99aa38dcf61c99e06161b462c2ab76df71ee7629667404a4f175901a06606b8",
+          "executable": false
+        },
+        {
+          "path": "references/lark-slides-replace-slide.md",
+          "sha256": "4ee3ddd488512d77279c60b13157ac7a23c885a02d9a0e42d4e710fb896ce8a3",
+          "executable": false
+        },
+        {
+          "path": "references/lark-slides-xml-presentation-slide-create.md",
+          "sha256": "51ab2d0d925242fa43c6f3ac0c8a8c920fceab126bd449c96fabbe20936f0513",
+          "executable": false
+        },
+        {
+          "path": "references/lark-slides-xml-presentation-slide-delete.md",
+          "sha256": "c403f1727e0c5ae0b290d73af604a658e29680396e17a5fe83d4d74991639e7f",
+          "executable": false
+        },
+        {
+          "path": "references/lark-slides-xml-presentation-slide-get.md",
+          "sha256": "dd6c557f4043aadf678a49e93af19adf0669e50eba9aa78fe63c30995c235525",
+          "executable": false
+        },
+        {
+          "path": "references/lark-slides-xml-presentation-slide-replace.md",
+          "sha256": "7235ac05f4acc8f8aa5a0230df6ca2edc88169d31dea1025de18f8ec35b69ef5",
+          "executable": false
+        },
+        {
+          "path": "references/lark-slides-xml-presentations-get.md",
+          "sha256": "a2cbf1fe3d88b21ef56e7b98b35c4c6300f7a9bdaed1d5865b5c792cc907d622",
+          "executable": false
+        },
+        {
+          "path": "references/planning-layer.md",
+          "sha256": "4b5998424d4b59b77b9028e455cec2ca8159b07fdef4dff5121b36bbd98147d0",
+          "executable": false
+        },
+        {
+          "path": "references/slide-templates.md",
+          "sha256": "8d6e820db415985296c14d87c6ec08cfe154cf4e4e431bb433b1f460b1e374e2",
+          "executable": false
+        },
+        {
+          "path": "references/slides_demo.xml",
+          "sha256": "331ab7a90fb19a4d27b57a6bf1335dfb73081299d23346ba2888f7b6efd74859",
+          "executable": false
+        },
+        {
+          "path": "references/slides_xml_schema_definition.xml",
+          "sha256": "e457748005c83d1f636fc421982e8a142e3348c5d851b6472a8d6b4493073b83",
+          "executable": false
+        },
+        {
+          "path": "references/template-catalog.md",
+          "sha256": "1aa8c0db6788d97ab537f77e415f5befa9d895967e9b8df74a50a9409f3b291f",
+          "executable": false
+        },
+        {
+          "path": "references/template-index.json",
+          "sha256": "f473026e75283f6f9d61ba715ea0d5c76871393a8390d34cf47c25dba16a3274",
+          "executable": false
+        },
+        {
+          "path": "references/troubleshooting.md",
+          "sha256": "ece5b2a10c52bcc383a1b8d047bb07d76437e894be2512d92ac39d62b18524ec",
+          "executable": false
+        },
+        {
+          "path": "references/validation-checklist.md",
+          "sha256": "1e87eb73a6bc70c2fc5ce2d1eb6a92cda2c1a0ba55011bdc36b186453a11ca6b",
+          "executable": false
+        },
+        {
+          "path": "references/visual-planning.md",
+          "sha256": "7942ba4f297b25868554f39791f2d87382d2c02e505d2c6bf6d977fa8d546e53",
+          "executable": false
+        },
+        {
+          "path": "references/xml-format-guide.md",
+          "sha256": "ad31703280fa4c51c341dd2970eacefc971fe5301f2012dd984473d40614e59d",
+          "executable": false
+        },
+        {
+          "path": "references/xml-schema-quick-ref.md",
+          "sha256": "24ed1e837fafe121c90260dd55a0ecea96f3517cf42d974ac736afd7af90599e",
+          "executable": false
+        },
+        {
+          "path": "scripts/template_tool.py",
+          "sha256": "02132b415153ed259811727a5a077b84c2d5960e280b1add3c00c8a0db952956",
+          "executable": false
+        },
+        {
+          "path": "scripts/template_tool_test.py",
+          "sha256": "a43a5454b4cd9219fa9723f33edb5a0f7055ec36f585965fee315bf0d5255a7c",
+          "executable": false
+        },
+        {
+          "path": "scripts/xml_text_overlap_lint.py",
+          "sha256": "431567c190b9f3cfb4bcbcc8dd69dcc6d09ce26240dcdaba0f70f878f267884e",
+          "executable": false
+        },
+        {
+          "path": "scripts/xml_text_overlap_lint_test.py",
+          "sha256": "1f65bf904b1ea432323d8daae3559fe8c4c303d181bcbcda15c95c3511a7607f",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-task",
+      "source": "~/.agents/skills/lark-task",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "de46893379adb6d6a81ab94d00121dbbb5c007e7d8ab09a5ecaa7f41b9bca43c",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-assign.md",
+          "sha256": "21e7f23794a9b6250e936d747d6e48cfeda1ecd576496a0ccc80b272270719a6",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-comment.md",
+          "sha256": "a214797e0cda20b84e1c7b4fb74e16f09435372a0839a8e0fd4030951c6d975c",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-complete.md",
+          "sha256": "8d80f65403dbfb425bd53de2087d12a39d05dca029987b23cb13fc3197ac64da",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-create.md",
+          "sha256": "657ec7f0426e9d7e7eaeb084451c2561e876a0649aeff701693c7525d8b03363",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-followers.md",
+          "sha256": "3c68ce7dcd2402bd534222bfff79e4de8be5bb1496292c0d7f546cc46b6c8648",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-get-my-tasks.md",
+          "sha256": "7a2004a93530adb6a5a0cfe8dba996924a15fc43bb4aea19e5c0c048799c1446",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-get-related-tasks.md",
+          "sha256": "f5e8ba3221d29d452c017b38086cb68e52340b281e973077b95ac8a40c6f2d62",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-reminder.md",
+          "sha256": "299565d936ffccec2ef3e34dee1fae424d9ea469799d7fc8232a6290a5c1b7bd",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-reopen.md",
+          "sha256": "393c52d0f801a992a59748baf28d8671f8ae63a2a674dbe8e55f99b603b038ac",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-search.md",
+          "sha256": "a666ba6a9c70dee6a06290ed74054a3d751dc0ae098d9d898b74e42e0467b0b6",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-set-ancestor.md",
+          "sha256": "f07dd5a0706f6a95dd83417a4a215903f9dbad3f16c3a2a915d3bd0b850d4fcd",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-subscribe-event.md",
+          "sha256": "a519dea5a52616cb3f1b5f45a83b162d232aa2fa78272fd1707c08feb88946e0",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-tasklist-create.md",
+          "sha256": "011f4bf1902063f39ebbe18c94790e77dc621dd5d8a0a0318f361a2411d5c9ab",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-tasklist-members.md",
+          "sha256": "68c21892a5f4fb104fa0f455f4781f427b6766c999e7a8c242b642f1553d2e96",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-tasklist-search.md",
+          "sha256": "c9a70b4d017bef95f8f779343e3f01e49d2ec01e1af2263f13476d3b918124af",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-tasklist-task-add.md",
+          "sha256": "11dfb8d31bb7c5946e9cd7b881f593b82fc9592c319c0f3139b7b13433edb51b",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-update.md",
+          "sha256": "5ff63ebbf0b5413bf3d4e1c9dab0dac8f1015258b58a315080dc31798eee6bc2",
+          "executable": false
+        },
+        {
+          "path": "references/lark-task-upload-attachment.md",
+          "sha256": "6275490511a6e7cd13c617f3a9332011d309b63d4130342e66ca92ab8a826871",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-vc",
+      "source": "~/.agents/skills/lark-vc",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "c15bb7a74ed25df100c0fdaa5c3350d2193cfd880e98ea71b533ed58657ffe86",
+          "executable": false
+        },
+        {
+          "path": "references/lark-vc-notes.md",
+          "sha256": "5668fac9867c52cee0ebc4b3c24c7d711ad770b3b3ed2fac1c1727a526ae166f",
+          "executable": false
+        },
+        {
+          "path": "references/lark-vc-recording.md",
+          "sha256": "676951fe9dcd63fb6c81750eac7a599f3fcdf27a227c288812f4f9b77172faa6",
+          "executable": false
+        },
+        {
+          "path": "references/lark-vc-search.md",
+          "sha256": "779357c97ba1be87811d2920890f7ec39e81bcf8fc68448bd02e20add0ca1456",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-vc-agent",
+      "source": "~/.agents/skills/lark-vc-agent",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "9d91a9c694b15c7a3e7da990d922872095b3eca706c4c919e9a6ccdbe3af497f",
+          "executable": false
+        },
+        {
+          "path": "references/lark-vc-agent-meeting-events.md",
+          "sha256": "0f6f743baea0ed555b40ae886a3690a905dea5d022f36091d852215d3e1b41e9",
+          "executable": false
+        },
+        {
+          "path": "references/lark-vc-agent-meeting-join.md",
+          "sha256": "6c08f172b7035e5a0813eb14e8605d4a97b569e2f392dfa552c968f53d57de2a",
+          "executable": false
+        },
+        {
+          "path": "references/lark-vc-agent-meeting-leave.md",
+          "sha256": "e36c4c515621d84d82db77269c30cd4db00ab8c7bbfa7e21adbf3b46267b423f",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-whiteboard",
+      "source": "~/.agents/skills/lark-whiteboard",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "d7e6a5f487954c1d2f76232bc34647e9c218aeb5a7985bc171ee371c9e902adf",
+          "executable": false
+        },
+        {
+          "path": "references/connectors.md",
+          "sha256": "c4211b04f7decc0f63422d0f0bb6e47bdaa1fa85ce04ec508fe99d6e880b7db6",
+          "executable": false
+        },
+        {
+          "path": "references/content.md",
+          "sha256": "8ed9a8b5552f63f7072e14957219eea369a06b4bb7d6ebe8f401df802a0eecf2",
+          "executable": false
+        },
+        {
+          "path": "references/image.md",
+          "sha256": "5d5b60de1edc20781f4d731e1b523eb5637166ab25e3c4467fe97866eb59820e",
+          "executable": false
+        },
+        {
+          "path": "references/lark-whiteboard-query.md",
+          "sha256": "818eb2944baea1a1aad6237bbf75a1f638087afa4fed2e6f2d627b9b2a3b900b",
+          "executable": false
+        },
+        {
+          "path": "references/lark-whiteboard-update.md",
+          "sha256": "9ff34252232198cff159b4e67449975e319d534237ea7e73eec2209156270c3c",
+          "executable": false
+        },
+        {
+          "path": "references/layout.md",
+          "sha256": "de9b72e8a09675d573f7000ca67187f50316e7b17e896e54b0680aa8409273e0",
+          "executable": false
+        },
+        {
+          "path": "references/schema.md",
+          "sha256": "6249857554511fdc2bcc1f2cc3375ed640ba583281705530eaf17323e103ccc6",
+          "executable": false
+        },
+        {
+          "path": "references/style.md",
+          "sha256": "b596a86895b7d6858b14cb8d18e37a842cb0078d774654f50fcd6b37be146752",
+          "executable": false
+        },
+        {
+          "path": "references/typography.md",
+          "sha256": "9df28a4ec089b7bfe894e2ac798d28f992c697b1a1012ce2a4561ca35fcee761",
+          "executable": false
+        },
+        {
+          "path": "routes/dsl.md",
+          "sha256": "7bd2b4601e5788bf1ae45448bfe918cc1927ed832fab654b0ef1447ae1bb3c8c",
+          "executable": false
+        },
+        {
+          "path": "routes/mermaid.md",
+          "sha256": "d1e75a0b63087b09d08778995518bbf7df52b07444aeca81d39ef973f756c157",
+          "executable": false
+        },
+        {
+          "path": "routes/svg.md",
+          "sha256": "c44e986bd730565937eccf79f8e31aebc86e6d3cd851718330fa536669011f29",
+          "executable": false
+        },
+        {
+          "path": "scenes/architecture.md",
+          "sha256": "12eed6cca334d58eb31d45c2eba9b8f9a5204597dc56d0dc52bd384f64cf2191",
+          "executable": false
+        },
+        {
+          "path": "scenes/bar-chart.md",
+          "sha256": "441f0b732bb519a7315472f59240c5188b14c17f43c564062b913a19b75b7c33",
+          "executable": false
+        },
+        {
+          "path": "scenes/comparison.md",
+          "sha256": "8f93eb09b817f4c13f50acacae83b44b10d01996f6e586e610a7ef80d90665ca",
+          "executable": false
+        },
+        {
+          "path": "scenes/fishbone.md",
+          "sha256": "92d4a425702c5d10a041af2b81064fa919cabf8da35bd31638a9313add6b553e",
+          "executable": false
+        },
+        {
+          "path": "scenes/flowchart.md",
+          "sha256": "00c586db0e4c22f10266d8a64866fb15ddbe5a90490ab2444967b9fc7fc74b2c",
+          "executable": false
+        },
+        {
+          "path": "scenes/flywheel.md",
+          "sha256": "033a8936a13cee5cc4b7279db3b7babd3ff80d66882e6de5a0615d328403c001",
+          "executable": false
+        },
+        {
+          "path": "scenes/funnel.md",
+          "sha256": "5198fc1d84ea27dd4501a8e8a451f390ca3be1373c587bcaf6d2238c28eae2a3",
+          "executable": false
+        },
+        {
+          "path": "scenes/line-chart.md",
+          "sha256": "a1d3716eb8ab0cc88df4bf24c62cb7b2f9965eb11c63dd45c5a5e2519e96d3d2",
+          "executable": false
+        },
+        {
+          "path": "scenes/mermaid.md",
+          "sha256": "4e8e4d2cd7e94d40369f123034e7fed96f0a367ec0e0924ab2702b692162e8d5",
+          "executable": false
+        },
+        {
+          "path": "scenes/milestone.md",
+          "sha256": "a047231f45e8a514a2b198606d1484fe845613d1700dafe0b8e8c02199559c43",
+          "executable": false
+        },
+        {
+          "path": "scenes/organization.md",
+          "sha256": "508110eb0b15a400b3d91ec744db31dce5a492c3310f1202b03d02479b1a3ca8",
+          "executable": false
+        },
+        {
+          "path": "scenes/photo-showcase.md",
+          "sha256": "30ef8e0373f89cfdca073e5936dbb992461c85027b2ba5a45875b3f9fa54af38",
+          "executable": false
+        },
+        {
+          "path": "scenes/pyramid.md",
+          "sha256": "9cd7c1e3c509a8183919ac7b6a10a1a184a2d2e9eca88dcf6800d0b5e3d7a64b",
+          "executable": false
+        },
+        {
+          "path": "scenes/swimlane.md",
+          "sha256": "1513ff28e8dd321d3b2ec62403b88e955c736725af815c6263ec34027e628b7b",
+          "executable": false
+        },
+        {
+          "path": "scenes/treemap.md",
+          "sha256": "6320fecd2a4cb8f700e2307cf80f7eae9d540e469900c786e238386ca6f58e06",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-wiki",
+      "source": "~/.agents/skills/lark-wiki",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "35e92e8e6744154e7cd15cb79d4ae062da59c2420cd02990a0f4f50ea83000d7",
+          "executable": false
+        },
+        {
+          "path": "references/lark-wiki-delete-space.md",
+          "sha256": "c52818ed3106e41d866211db61933707788d694962b5c16f8e354b12bf6f6919",
+          "executable": false
+        },
+        {
+          "path": "references/lark-wiki-move.md",
+          "sha256": "0e7ffcbc7992a2a168a0c1c0ba46dbc0a741db4cfbfa5638ed02132e1d88051d",
+          "executable": false
+        },
+        {
+          "path": "references/lark-wiki-node-copy.md",
+          "sha256": "dbaa3f65c78e517b580d0f02d4115f8960c65fdeddaa588f60b3d186472a1ded",
+          "executable": false
+        },
+        {
+          "path": "references/lark-wiki-node-create.md",
+          "sha256": "e0fbb63b55798b200291b65f2295cb67eac89ed069e26fd881ea2e680b32a1d9",
+          "executable": false
+        },
+        {
+          "path": "references/lark-wiki-node-delete.md",
+          "sha256": "2c48931d16fc2cd6f45c78ae596644652a71f61bd1d022031a18409f45773090",
+          "executable": false
+        },
+        {
+          "path": "references/lark-wiki-node-get.md",
+          "sha256": "bb1cc486506e9d5f798096d1f740dd44d72b3a6cd247225e8c51de5e1da6c9c5",
+          "executable": false
+        },
+        {
+          "path": "references/lark-wiki-node-list.md",
+          "sha256": "b855aa44feacc2ba22afef68a9226d215d918911322006bf7aee2edfedcd1a01",
+          "executable": false
+        },
+        {
+          "path": "references/lark-wiki-space-create.md",
+          "sha256": "b936ab670f525e6e9433ee6b145ed2eafee296df2c3062abdc651000a88c86ad",
+          "executable": false
+        },
+        {
+          "path": "references/lark-wiki-space-list.md",
+          "sha256": "d4921cfbfaba564217f214b6f87daf7e3ccbfda5b9759f73ab6a999c682913ae",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-workflow-meeting-summary",
+      "source": "~/.agents/skills/lark-workflow-meeting-summary",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "97b34c38853820f9f3f7cdde42b3ae0e6f413ca0fcaab10d306e6bcbeac5168c",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "lark-workflow-standup-report",
+      "source": "~/.agents/skills/lark-workflow-standup-report",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "42ce3008a6d8f520be83fe25ecde0d1457e658e67cac96f1d1f37179a57b2fa6",
+          "executable": false
+        }
+      ],
+      "category": "飞书与协作",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "migrate-to-codex",
+      "source": "~/.codex/skills/migrate-to-codex",
+      "files": [
+        {
+          "path": "LICENSE.txt",
+          "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+          "executable": false
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "145b7fe48360642cb7a42bad3a817f10833fa8a387ffcb4c2df8a47c01a832e2",
+          "executable": false
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "d59cec74a85ea881e5ddf8517302026242af004f1d2a7667e1efc433b51295c2",
+          "executable": false
+        },
+        {
+          "path": "references/differences.md",
+          "sha256": "6e32f5b3140863863ba89b1736b92e4a378f6ccc4785b9f427fc1f13a625916c",
+          "executable": false
+        },
+        {
+          "path": "scripts/cli.py",
+          "sha256": "b392ec310e683d6a42eae00b88e7b9851ed42b3d4aa99bd6aa327e5a8d5545c8",
+          "executable": false
+        },
+        {
+          "path": "scripts/migrate/__init__.py",
+          "sha256": "45c26b88f1b130dfd4294b1ff1c18eb7f8ab9cf14508589292d7f5a7c6133ac9",
+          "executable": false
+        },
+        {
+          "path": "scripts/migrate/agents.py",
+          "sha256": "7859242aaaa9efcaf05ed03564610a96d371e085d90f77babac93d437a645bd5",
+          "executable": false
+        },
+        {
+          "path": "scripts/migrate/codex_config.py",
+          "sha256": "5b092657150e24a938a55f2f17602aa8a6f4dfb6548f77613f8c7f9ed142c25d",
+          "executable": false
+        },
+        {
+          "path": "scripts/migrate/common.py",
+          "sha256": "c12107cca109dcc171b3dd48e93e5ee56d7e805e7a86c3341d0cc72c1a33845c",
+          "executable": false
+        },
+        {
+          "path": "scripts/migrate/hooks.py",
+          "sha256": "4465c0537a3750a6e7095db0f2a41f087eb3e63053482dc33f876967e87d8616",
+          "executable": false
+        },
+        {
+          "path": "scripts/migrate/instructions.py",
+          "sha256": "321284ce5b0b17b5691b7a4f4020d813e28e336578e8c6764f34626f2b449ea1",
+          "executable": false
+        },
+        {
+          "path": "scripts/migrate/mcps.py",
+          "sha256": "3e5903a3d0a7e09d1a6d8f6d702107b81e661486eef7cdc10012014dc734e4e5",
+          "executable": false
+        },
+        {
+          "path": "scripts/migrate/plugins.py",
+          "sha256": "fec8ca75b4e9467aadc5dc822aa24c8c7f44415debde77ce8761d1d8014eaf26",
+          "executable": false
+        },
+        {
+          "path": "scripts/migrate/settings.py",
+          "sha256": "13a659e2dbba2895b6d4289b1eb62c33924f95bf45d5e4f2fbdd07fe4f35639a",
+          "executable": false
+        },
+        {
+          "path": "scripts/migrate/skills.py",
+          "sha256": "738f25b09345d84f79cc517e3d0862e4c154b612cf459ab6db00099b827e6eea",
+          "executable": false
+        },
+        {
+          "path": "scripts/migrate-to-codex.py",
+          "sha256": "6c0b8cd8c0ea610ebe1c4c9184fad3dd5f71520f6341e7a605976544417d12ea",
+          "executable": false
+        },
+        {
+          "path": "scripts/utils/__init__.py",
+          "sha256": "884b593e41718aed59d3fd46ff77ddafccf422554f0ca0e39a37722ad4b148b4",
+          "executable": false
+        },
+        {
+          "path": "scripts/utils/scan.py",
+          "sha256": "d7fcce39222a732cc91eff58c23e4319e3bd437e10eaf4e2084193c245a21ab0",
+          "executable": false
+        },
+        {
+          "path": "scripts/utils/util.py",
+          "sha256": "d8eb5a1e99d60bbef3b17b118fc6a082edd6c39edacadab5d9c89a11311a5c0c",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [
+        "LICENSE.txt"
+      ],
+      "license_status": "see bundled files"
+    },
+    {
+      "directory": "playwright",
+      "source": "~/.codex/skills/playwright",
+      "files": [
+        {
+          "path": "LICENSE.txt",
+          "sha256": "9a7110fc2d2f964038e5dc49128f908f29f47a574c961cba16085914e879cbda",
+          "executable": false
+        },
+        {
+          "path": "NOTICE.txt",
+          "sha256": "417d5d3372914ecfd9fe102ac1d7dc2119253209f9718d6c222f616876c1904b",
+          "executable": false
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "0ffaabcc8e0990627c4725f18bf1c7955534a796c1c199e872909de2013ce6a8",
+          "executable": false
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "ddda43720fc566fffa45264be8f17f7745a3cee28d5245d41d3b963bc9967230",
+          "executable": false
+        },
+        {
+          "path": "assets/playwright-small.svg",
+          "sha256": "f1d213c0f76735d8272c3d3e9fbf71fe7b894e2d1588907044c780f2c33a9732",
+          "executable": false
+        },
+        {
+          "path": "assets/playwright.png",
+          "sha256": "521669f088c838196c6c852ccc9abdd7234d8f37fc9a8a7a9af7db2d50193381",
+          "executable": false
+        },
+        {
+          "path": "references/cli.md",
+          "sha256": "7c069a8206ba20b9ddbdc42436b04de30bb3aa4a825ba98680757ee62e954900",
+          "executable": false
+        },
+        {
+          "path": "references/workflows.md",
+          "sha256": "a2b5835a00ebee3906c146adf7f764f7718ea3f89a8702d86eaa135dfe0fc8c2",
+          "executable": false
+        },
+        {
+          "path": "scripts/playwright_cli.sh",
+          "sha256": "aa3fdff5d0e4556177f4dfd5f04117e772aa54f94b6a2e34b6c0edf629c6b9b5",
+          "executable": true
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [
+        "LICENSE.txt",
+        "NOTICE.txt"
+      ],
+      "license_status": "see bundled files"
+    },
+    {
+      "directory": "ponytail",
+      "source": "~/.codex/skills/ponytail",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "d1ffcddbc486ab787d5797441e8b6e4717da3249c6786b83fc2abd2f12803c29",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "ponytail-audit",
+      "source": "~/.codex/skills/ponytail-audit",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "5560b8e383dbe2ddfddc873a1e2bf2e586e23e0cd7d995537482b2315331f6d1",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "ponytail-debt",
+      "source": "~/.codex/skills/ponytail-debt",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "c84fba75f0ca12bfe83f9a78ea02fd125c5dd3f1fbb18124105a489937f284e6",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "ponytail-gain",
+      "source": "~/.codex/skills/ponytail-gain",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "24e01d1c9715cb136ba1c4f1e52a95940c0193558b876828e537736480d6408b",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "ponytail-help",
+      "source": "~/.codex/skills/ponytail-help",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "2264d1615117b02b0fd5a69ec84cd2757006471a78e4d6c22eed6d581c1d37a4",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "ponytail-review",
+      "source": "~/.codex/skills/ponytail-review",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "40df33b58fc6ef889b93585733feb9566b76e9586efa7f376785c1e995197ac0",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "proofloop",
+      "source": "~/.codex/skills/proofloop",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "90b48bf9f6b1d9e9d567b580b5b12a222d85ad91f17a9d606503a772bd32bbd1",
+          "executable": false
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "a9f7d2b77049fdc63c1a633f296dec1a1b96637c4c551a8344f1d0b6bd63c458",
+          "executable": false
+        },
+        {
+          "path": "references/bug.md",
+          "sha256": "8a00665878ac2e83a9e0c0bdb0eacd2d33d4582958421be8b4cfc2c1d7db6a21",
+          "executable": false
+        },
+        {
+          "path": "references/evidence-moves.md",
+          "sha256": "e416d1f7406b6ce54ac4c3527f25ddff6fb3a82616823883b1c2e37d76c2eac6",
+          "executable": false
+        },
+        {
+          "path": "references/knowledge-handoff.md",
+          "sha256": "7b40130098b9d50f149324920f0014b43dd3738d3c5a550a1f46eb8fd75dc5b9",
+          "executable": false
+        },
+        {
+          "path": "references/review.md",
+          "sha256": "79ea56cc2e6a8cdbdd8a80a68e8c17036f967dcbf16d6d9585590b344553201c",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "proofloop-guardrails",
+      "source": "~/.codex/skills/proofloop-guardrails",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "48df9f679c1b0cc08a971fa0000b72addba5761458c253f3a1b6bc7c5c67ee3b",
+          "executable": false
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "7be8b57c9acf610ce06b2a5d456eb3e658c5c4364e5536b821ec1fef67054da9",
+          "executable": false
+        },
+        {
+          "path": "references/guardrails.md",
+          "sha256": "c9eea10f1233dafb4073387686b4f2b84be2189eaf0fba7956cf8e85d39e7c4c",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "proofloop-test-matrix",
+      "source": "~/.codex/skills/proofloop-test-matrix",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "3d27820570d82ea492a392eb93d2241b622a4aaf6d4421db45ceb7297f7b5e19",
+          "executable": false
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "96f0492d2defb06b54cd01364eea9b4957fbf9353af22216c4ffba3994c613d2",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "prototype",
+      "source": "~/.agents/skills/prototype",
+      "files": [
+        {
+          "path": "LOGIC.md",
+          "sha256": "da91dc92195c00d5dc33863b8c1a030998025a0f8583ebf2babd770825b7f70c",
+          "executable": false
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "a653deb65afa2ee8f45c68f6ef4f593147171b386e994c8cccf89292d9ea9d75",
+          "executable": false
+        },
+        {
+          "path": "UI.md",
+          "sha256": "d76d565149ee50456c5ddc5e29c27fec8737637874fe5c37d970db085a200b27",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "receiving-code-review",
+      "source": "~/.agents/skills/receiving-code-review",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "c9382e92b8f32363566068ecfed19d3b2651eaf40d3942b24840f839dedfc406",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "requesting-code-review",
+      "source": "~/.agents/skills/requesting-code-review",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "5a3a44a3667800e2dc836829c6b92fada51e6dc58ac144ec05fe59f47d6bcd84",
+          "executable": false
+        },
+        {
+          "path": "code-reviewer.md",
+          "sha256": "595d91d05d5ecba530bd52e1e53c5173d820ab5d4bc223eb7820d69a9ab1c403",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "research",
+      "source": "~/.codex/skills/research",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "af378829f015775a3bcd65ff466826722e99359017ae6bae227ca4c9bd14049c",
+          "executable": false
+        }
+      ],
+      "category": "检索与研究",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "resume-claim-steering",
+      "source": "~/.agents/skills/resume-claim-steering",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "d0fe6343acaf00823be59e810d31bc59a4595f17caf5fba948f9ab07ef245708",
+          "executable": false
+        },
+        {
+          "path": "assets/claim-ledger-template.yaml",
+          "sha256": "9863318eb9e5f65cac7168dc736a20791fb63abc93467824b32acc2c6e85de0f",
+          "executable": false
+        },
+        {
+          "path": "references/bullets.md",
+          "sha256": "1c9b79c464bf39433b169609b389c5450068c5e5dfa0a02da2139a41c82c76e4",
+          "executable": false
+        },
+        {
+          "path": "references/examples.md",
+          "sha256": "09d1113053ed7a435a3a0a344644d43015bcfc8498935809e43b2548bc9e00c2",
+          "executable": false
+        },
+        {
+          "path": "references/ledger.md",
+          "sha256": "0180a21b88cb2671ea645bf74a44bffecb5759582bfe76b1440d299563ba4406",
+          "executable": false
+        },
+        {
+          "path": "references/trees.md",
+          "sha256": "22716a4822efa559fe4664ee39084241f9ac836c14abc3b202a584acb22a56d8",
+          "executable": false
+        }
+      ],
+      "category": "求职与项目表达",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "resume-optimization",
+      "source": "~/.codex/skills/resume-optimization",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "32a66ee059ed4b7fc114d2d51432980f6a4bbf8b9c1c8187a63e18ca9b083aaa",
+          "executable": false
+        },
+        {
+          "path": "_meta.json",
+          "sha256": "287405a94d6d9e945921aa3e0601201d47e69b38ce1ef3164e7653be48877171",
+          "executable": false
+        }
+      ],
+      "category": "求职与项目表达",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "resume-parser",
+      "source": "~/.codex/skills/resume-parser",
+      "files": [
+        {
+          "path": "README.md",
+          "sha256": "e69f774825285bbb87e7e30bacdb4cf0a9decb3fbfe8ad101d096c4ca306ae2c",
+          "executable": false
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "a0d50d201192af729993fccad592514ced8e9165c390e77dac69ebdb4e81db12",
+          "executable": false
+        },
+        {
+          "path": "_meta.json",
+          "sha256": "4f8a2ec886c67eab6255aa6fe4af35783fa2589fe1e29ffd2970cb07becb6369",
+          "executable": false
+        },
+        {
+          "path": "references/field_extraction_guide.md",
+          "sha256": "92944a187049f807eefacadd55f873a8d9420fd3e127e6d0c02a27e42475fa7d",
+          "executable": false
+        },
+        {
+          "path": "references/matching_rules.md",
+          "sha256": "723a0561d5122d95659a3af4b9104205650f62f7eb9a4f7e1595d3a16a10f34e",
+          "executable": false
+        },
+        {
+          "path": "scripts/extract_docx.py",
+          "sha256": "5232308ec9225c8999a664cb8a605d15d21abf42fae8eac67dd11617925ee70f",
+          "executable": false
+        },
+        {
+          "path": "scripts/extract_image.py",
+          "sha256": "39ff38823f0b6320b380811769d76f60043696e9bcfbc6b742ae3abffc2d5f76",
+          "executable": false
+        },
+        {
+          "path": "scripts/extract_pdf.py",
+          "sha256": "aa4ab3532a319aec82774165a39dc147a5fa62395350092830a93d927490072c",
+          "executable": false
+        },
+        {
+          "path": "scripts/match_jd.py",
+          "sha256": "92fcdb83e627689ca709771cbbbaefa5d883dbad97a76a9c839a5c887a378591",
+          "executable": false
+        },
+        {
+          "path": "scripts/parse_resume.py",
+          "sha256": "f94d735c65e2a478701bb26f1c79dff1a8b8a891672cce65de4b746744681571",
+          "executable": false
+        }
+      ],
+      "category": "求职与项目表达",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "setup-matt-pocock-skills",
+      "source": "~/.agents/skills/setup-matt-pocock-skills",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "c778d4e3d86ecc9125c357279a86780657b5db23110e1f7acf4f46d2441e7204",
+          "executable": false
+        },
+        {
+          "path": "domain.md",
+          "sha256": "a8cc3d1c11c9cdea455f39c4090cf61ac273f2474dd6f229ab0c2b9b1deec759",
+          "executable": false
+        },
+        {
+          "path": "issue-tracker-github.md",
+          "sha256": "f0e138631d1fc8aedc9e05d25bc688b97679f81eae7a7c760dd35e0790568370",
+          "executable": false
+        },
+        {
+          "path": "issue-tracker-gitlab.md",
+          "sha256": "94c574647c4755f2a807742f5e78e7cef586c100266d54501d0e55445c1b1807",
+          "executable": false
+        },
+        {
+          "path": "issue-tracker-local.md",
+          "sha256": "9a052f4599525e581721ec24cb2ae3e0296b79053e39f684b540d34d3a4f6528",
+          "executable": false
+        },
+        {
+          "path": "triage-labels.md",
+          "sha256": "4f53c9b40ce2651e3611aa090eaedbd6dbc9b71ef8c5f7e65eac0d8263190d0d",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "show-me",
+      "source": "~/.agents/skills/show-me",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "10dfab8603587b138fa371305be87dace222ade094914b861b85701e84cd5c36",
+          "executable": false
+        }
+      ],
+      "category": "学习、解释与可视化",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "steelman",
+      "source": "~/.codex/skills/steelman",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "3ecbca9800a3a64a585b7512d93eaacc99f853e7f34116ed8327315a02f7cbb9",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "subagent-driven-development",
+      "source": "~/.agents/skills/subagent-driven-development",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "905a2b9be59b734dbe166525ad31dcaaf712a75926135adee1f554557aba5744",
+          "executable": false
+        },
+        {
+          "path": "code-quality-reviewer-prompt.md",
+          "sha256": "2eeb3bf63fccfbee042812dc94e7032048603f0f8c3827b4b53af9e4cef19b30",
+          "executable": false
+        },
+        {
+          "path": "implementer-prompt.md",
+          "sha256": "a416193f881e5a712c988fffabfe1d5a97bffcd091eb95577c84fe2136588617",
+          "executable": false
+        },
+        {
+          "path": "spec-reviewer-prompt.md",
+          "sha256": "631980e472eec5394de8b89b69d432e54fd3f7f523ecf9afa7eb4cda0c9b2baf",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "systematic-debugging",
+      "source": "~/.agents/skills/systematic-debugging",
+      "files": [
+        {
+          "path": "CREATION-LOG.md",
+          "sha256": "c24733a5b1821bd6bed1fc950261f0b9f4e90097e0bbb96459d8179713730789",
+          "executable": false
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "4999cb851360485eca5074e727bbdd62ef20549c5d5b01216fcbf5831badb473",
+          "executable": false
+        },
+        {
+          "path": "condition-based-waiting-example.ts",
+          "sha256": "40ae5ebe497fdf310200e43fe986552546d0a22837c0d39e855db1cfd33eb88e",
+          "executable": false
+        },
+        {
+          "path": "condition-based-waiting.md",
+          "sha256": "e89fec8400d6cd50f43407cec9fab50976ba4d55d0ec2eb51c0bd68036b54c26",
+          "executable": false
+        },
+        {
+          "path": "defense-in-depth.md",
+          "sha256": "1e175fb86fc357e58c6aebf5441e481e1b7868b4380c0456b63a17eefbd18ba7",
+          "executable": false
+        },
+        {
+          "path": "find-polluter.sh",
+          "sha256": "6462747eae9b175ac145b78bcfaeab755654a75e32637f08eb633f065a9e1d7c",
+          "executable": true
+        },
+        {
+          "path": "root-cause-tracing.md",
+          "sha256": "6b0622269e098ca1399e123e553fd385f0b6412d88ef0e9c4f5a8ea9cf1cec7b",
+          "executable": false
+        },
+        {
+          "path": "test-academic.md",
+          "sha256": "fe2ba480d78ac0d686dc025f41c2a32a43d642bf533f91b0c6053a04d35d6486",
+          "executable": false
+        },
+        {
+          "path": "test-pressure-1.md",
+          "sha256": "0b6a915db0054577819834c79be9eb614e97bddba10d73768e1fbe91cfed048a",
+          "executable": false
+        },
+        {
+          "path": "test-pressure-2.md",
+          "sha256": "b2030aeffba07050e8ad573ddf87486457c4a016a786bb326235bebd856f2016",
+          "executable": false
+        },
+        {
+          "path": "test-pressure-3.md",
+          "sha256": "96b50a52e2c7989c9cf20fb752c47c1e9a3a70dc362f8f7989f8f5b64dac7708",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "tdd",
+      "source": "~/.agents/skills/tdd",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "af059705061156fd4845ddbb736fe92b564118ac5f03551e09ef9e8f6d970638",
+          "executable": false
+        },
+        {
+          "path": "deep-modules.md",
+          "sha256": "f2123700bf953db1740625686c75bdd145efd486357c47c6818c869fee657a32",
+          "executable": false
+        },
+        {
+          "path": "interface-design.md",
+          "sha256": "764c5ff0e3fa6b4ab7095eb65ccc7201e090baf19fa16051dfdb72c06d27417d",
+          "executable": false
+        },
+        {
+          "path": "mocking.md",
+          "sha256": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef",
+          "executable": false
+        },
+        {
+          "path": "refactoring.md",
+          "sha256": "54fced22dd1911b7094c3fe7979b7c1a40d40be307482c4adf7dc0588f27d6cc",
+          "executable": false
+        },
+        {
+          "path": "tests.md",
+          "sha256": "e12182f5c4c6a844b7c6ab4b8d2623b642aaaae5460fe58ed087efd4f3d5fb8a",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "teach",
+      "source": "~/.codex/skills/teach",
+      "files": [
+        {
+          "path": "GLOSSARY-FORMAT.md",
+          "sha256": "d177def491519d97873291f2e860d8f1d60ead78feecb82eee022177958069c6",
+          "executable": false
+        },
+        {
+          "path": "LEARNING-RECORD-FORMAT.md",
+          "sha256": "855f81017625256584bbf62bd5edb9b0c86605c4cc1139c56acc36b802595d17",
+          "executable": false
+        },
+        {
+          "path": "MISSION-FORMAT.md",
+          "sha256": "8da6d3ac84eb2eb19f17c260b6acf01c560d3ac7a4501c415eea0e985602f4d7",
+          "executable": false
+        },
+        {
+          "path": "RESOURCES-FORMAT.md",
+          "sha256": "2bc634a64b0d0daa10904f9222e7aa0d361420dfacabbf092fbe3a72222edc08",
+          "executable": false
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "6d2dbe5e03084cf26fef66b535127b36cd1bcbe9478e26b0626029cd51dc2259",
+          "executable": false
+        }
+      ],
+      "category": "学习、解释与可视化",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "technical-research",
+      "source": "~/.codex/skills/technical-research",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "9309a31b033c6396c66b2d5985797656cef91cba34878519f45d6dc641d1b184",
+          "executable": false
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "a8a008fe44b16178a3271c671ae2c5c69bbeb574a3d3e1bb0637fda7c46ee427",
+          "executable": false
+        },
+        {
+          "path": "references/evidence-levels.md",
+          "sha256": "de551b580885902d793eb59dc351c854a3644f2c3c6158077e9005a6ec6f1133",
+          "executable": false
+        },
+        {
+          "path": "references/output-schema.md",
+          "sha256": "e6bf673ab4c98dd45d61851e7ed092dc260f18db03516af8b0db69a5f8f6f08f",
+          "executable": false
+        },
+        {
+          "path": "references/quality-rubric.md",
+          "sha256": "8a2564d13e912561cbb26160d6089a225bac10e868d0ac83b4c362afe3d50a4c",
+          "executable": false
+        },
+        {
+          "path": "references/query-templates.md",
+          "sha256": "84b976cb2565c88a9743c05faa0de3d8ed3d2dc5d315627d75ec790ee001a693",
+          "executable": false
+        },
+        {
+          "path": "references/source-policy.md",
+          "sha256": "1b6d24fcec1380b68e1fb092c8f51e17bfe3e4782c57eb6d30c7749ba403b93c",
+          "executable": false
+        },
+        {
+          "path": "references/source-registry.yaml",
+          "sha256": "139ad0169d115e7fbca423d91d6ce899360e6d53a4cabbdb37ce739cb1bdc50f",
+          "executable": false
+        },
+        {
+          "path": "scripts/cn-article-search",
+          "sha256": "682e2bf3d7b698770610f7ca0e07c850429f0245fd37b4702a70575d306ad18a",
+          "executable": true
+        }
+      ],
+      "category": "检索与研究",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "test-driven-development",
+      "source": "~/.agents/skills/test-driven-development",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "7dee67b4af6bdccc7a914ca34533184d64592d0f5b23aeae631538168db14994",
+          "executable": false
+        },
+        {
+          "path": "testing-anti-patterns.md",
+          "sha256": "bde453bc258f06543987477c837939afaa774ea2acbd9f308d702fc452bc4283",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "to-issues",
+      "source": "~/.agents/skills/to-issues",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "0e6a2973fa5bdf32570227c578f7e474d945dd9281615d31439664c3ef016fce",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "to-prd",
+      "source": "~/.agents/skills/to-prd",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "b60e3805e361e4eabc6f3df48d305299e0fde64cb24b6e95443c01de907a2e7d",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "triage",
+      "source": "~/.agents/skills/triage",
+      "files": [
+        {
+          "path": "AGENT-BRIEF.md",
+          "sha256": "1c71c747aa97d938f75ec7a4b8fe87451763b38a3ce6348acf2b222e5819b2e5",
+          "executable": false
+        },
+        {
+          "path": "OUT-OF-SCOPE.md",
+          "sha256": "8ed8cf27833444060c81b3961a83c0e3d8e6cf2fcb2ddf6f8b07c6655cbb0d85",
+          "executable": false
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "b819f0285e4e5814ac6472d0217f07dc9f23d2fdae3ebb0dd31d98360d8ac029",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "using-git-worktrees",
+      "source": "~/.agents/skills/using-git-worktrees",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "085a45ee3de432bdb2768011591d9a882cb6c759e2317f379226451c5618fe8e",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "using-superpowers",
+      "source": "~/.agents/skills/using-superpowers",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "316e29381219adf0cac62190c67aeabf427d6e6e5f2735541d502b3d339be7aa",
+          "executable": false
+        },
+        {
+          "path": "references/codex-tools.md",
+          "sha256": "37e06103a352516dcec2eb326f990d50c6728b571135cc7b54cbbb8902c451e0",
+          "executable": false
+        },
+        {
+          "path": "references/copilot-tools.md",
+          "sha256": "9fb400a432d31494c6d764506f04227c4b8d89e27a09f84da9cc2b75998f2db6",
+          "executable": false
+        },
+        {
+          "path": "references/gemini-tools.md",
+          "sha256": "a66092fb2dd2c69b6b6d1098feaf456614521fd7b887cf7cb4160c8040ed1d62",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "verification-before-completion",
+      "source": "~/.agents/skills/verification-before-completion",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "ea52d15aabaf72bc6b558efe2c126f161b53961090ddcd712000273bfe8c7b6c",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "wayfinder",
+      "source": "~/.codex/skills/wayfinder",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "bef437de697fb6984a8a90b7fd82f128609148d6e02f635ce419d03555b351e1",
+          "executable": false
+        }
+      ],
+      "category": "理解、设计与规划",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "write-a-skill",
+      "source": "~/.agents/skills/write-a-skill",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "be8f20e66309258034b82a7db5040b03798aa40546f9d387662c2bd86be23123",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "writing-plans",
+      "source": "~/.agents/skills/writing-plans",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "4fd4627d2c02367879c0307d7249270bed633317ff9be82e926a6d57bf5d331b",
+          "executable": false
+        },
+        {
+          "path": "plan-document-reviewer-prompt.md",
+          "sha256": "6fce2aa83c63715697e9dd86050c820716100b91efbd9f12bab8477ecc060256",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "writing-skills",
+      "source": "~/.agents/skills/writing-skills",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "38ba648975ae6ba512d6695676f146163db61a496b867f716f4bdfb0ee3aca3e",
+          "executable": false
+        },
+        {
+          "path": "anthropic-best-practices.md",
+          "sha256": "20914c2fda31670c75fe91710e18a53d413ce0d00b5102acfa251d75c9226e3f",
+          "executable": false
+        },
+        {
+          "path": "examples/CLAUDE_MD_TESTING.md",
+          "sha256": "0b379a3415e185d3c434b3ad283d8aa132f3022c2a4f210f168865b5986bcef0",
+          "executable": false
+        },
+        {
+          "path": "graphviz-conventions.dot",
+          "sha256": "e2890a593c91370e384b42f2f67b1a6232c9e69dddea7891a0c1c46d7b20b694",
+          "executable": false
+        },
+        {
+          "path": "persuasion-principles.md",
+          "sha256": "c3c84f572a51dd8b6d4fc6e5cbdc2bc3b9e07ba381a45bdabfce7ad2894dd828",
+          "executable": false
+        },
+        {
+          "path": "render-graphs.js",
+          "sha256": "ccda971a87bb185f8febf81c56b556a20d026fa980c17b35fa3e8824fbb37852",
+          "executable": true
+        },
+        {
+          "path": "testing-skills-with-subagents.md",
+          "sha256": "c711346852c911b24a84aa161e0cff06a4cd7f4e2fa9e9c0a266cead5afcbade",
+          "executable": false
+        }
+      ],
+      "category": "工程执行与工具",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "zhida",
+      "source": "~/.codex/skills/zhida",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "636855abbd344c1feecb8a1d93f055139cd506063b510455306dc52aa078e969",
+          "executable": false
+        },
+        {
+          "path": "scripts/zhida.py",
+          "sha256": "ec6e4c7a6504e7904f4cc2a462dce2ec36c7dcdb165c413498f0408da42b88f7",
+          "executable": true
+        }
+      ],
+      "category": "检索与研究",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "zhihu-search",
+      "source": "~/.codex/skills/zhihu-search",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "65caa8a7203dedca568a05d6dc4f86f2bf378f8d55b6dd6c63bbafa8555f5c35",
+          "executable": false
+        },
+        {
+          "path": "scripts/zhihu-search.py",
+          "sha256": "0b9fccd21da14583cf9b2c7923d5a1d27016dcbfd29ec957a732270b84e99151",
+          "executable": true
+        }
+      ],
+      "category": "检索与研究",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    },
+    {
+      "directory": "zoom-out",
+      "source": "~/.agents/skills/zoom-out",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "2a6894c7f9b1c9c55f451c625a834c4f377e217b623a85280e55db5fe9cacf48",
+          "executable": false
+        }
+      ],
+      "category": "学习、解释与可视化",
+      "license_files": [],
+      "license_status": "local copy contains no license file; not relicensed"
+    }
+  ]
+}
